@@ -65,12 +65,12 @@ params:
   - title: Categorieën
     url: /
     sublinks:
-    - title: jeugd
+    - title: Jeugd
       url: /categorie/jeugd
     - title: Nieuwelingen
-      url: /
+      url: /categorie/nieuwelingen
     - title: Sportklasse
-      url: /
+      url: /categorie/sportklasse
   - title: 
     url: /
   - title: nieuws

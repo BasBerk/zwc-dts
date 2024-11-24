@@ -1,7 +1,7 @@
 ---
 title: Jeugd
 sidebar: True
-include_footer: treu
+include_footer: True
 sidebarlogo: fresh-white-alt
 ---
 
