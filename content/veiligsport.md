@@ -1,6 +1,6 @@
 ---
 title: Veilig sportklimaat
-sidebar: false
+sidebar: True
 sidebarlogo: fresh-white-alt
 include_footer: treu
 ---
