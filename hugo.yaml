@@ -136,16 +136,25 @@ params:
       text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Vele prof je voor ging
+    - title: Vele profs ging je voor
       text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
       icon: plug-cloud
     - title: Veldrijden
       text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
       icon: mobile-feed
+
   section3:
+    title: Facebook nieuws
+    subtitle: Follow us on Facebook
+    page_url: https://www.facebook.com/zwcDTS
+    width: 500
+    height: 700
+    small_header: true
+    adapt_container_width: true
+    hide_cover: true
+    show_facepile: true
 
   section4:
-
   section5:
 
   footer:
