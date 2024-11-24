@@ -24,7 +24,7 @@ jobs:
           if [ "${{ github.ref }}" == "refs/heads/master" ]; then
             echo "HUGO_BASE_URL=https://gentle-wave-0c6edc503.5.azurestaticapps.net/" >> $GITHUB_ENV
           else
-            echo "HUGO_BASE_URL=https://gentle-wave-0c6edc503.5.azurestaticapps.net/" >> $GITHUB_ENV
+            echo "HUGO_BASE_URL=https://gentle-wave-0c6edc503-1.westeurope.5.azurestaticapps.net/ " >> $GITHUB_ENV
           fi
       - name: Build And Deploy
         id: builddeploy
