@@ -1,0 +1,194 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: DTS 
+
+module:
+  # uncomment line below for local development of module
+  # workspace: hugo.work
+  imports:
+    path: github.com/StefMa/hugo-fresh
+
+
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/logo_100_jaar.jpg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    # width: 112
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Zaanse wielerclub DTS.
+    # Hero subtitle (optional)
+    subtitle: Door trainen sterk anno 1921
+    # Button text
+    buttontext: Lid worden
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: logos/logo_100_jaar.jpg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    clientlogos:
+    - logo: Kremers
+      url: https://google.com
+    - logo: armada
+      url: https://stefma.github.io/hugo-fresh/
+    - logo: viro
+      url: https://bulma.io/
+    - logo: bakker
+      url: https://github.com/StefMa/hugo-fresh
+    - logo: tentij
+      url: https://hugo-fresh.vercel.app/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Categorieën
+    url: /
+    sublinks:
+    - title: jeugd
+      url: /categorie/jeugd
+    - title: Nieuwelingen
+      url: /
+    - title: Sportklasse
+      url: /
+  - title: 
+    url: /
+  - title: nieuws
+    url: /
+  - title: Veilig Sportbeleid
+    url: /veiligsport
+  - title: Over DTS
+    url: /overDTS
+  - title: lid worden
+    url: /
+    button: true
+  sidebar:
+    # Logo (from static/images/logos/___.svg)
+    logo: logo_100_jaar.jpg
+    sections:
+    - title: Wedstrijden
+      icon: user
+      links:
+      - text: Vuurlinie
+        url: /
+      - text: Kampioenschap
+        url: /
+    - title: Lid worden
+      icon: envelope
+      links:
+      - text: Lid worden
+        url: /
+      - text: Proefless
+        url: /
+      - text: Meer informatie
+        url: /
+    - title: Nieuws
+      icon: image
+      links:
+      - text: Laaste nieuws
+        url: /
+      - text: Fotos
+        url: /
+  section1:
+    title: Zaanse wielerclub DTS
+    subtitle: Door Trainen Sterk
+    tiles:
+    - title: Direct inschrijven
+      icon: #mouse-globe
+      text: Wordt lid van DTS, een club met een rijke geschiedenis
+      url: /
+      buttonText: Lid worden
+    - title: Proefles
+      icon: #laptop-cloud
+      text: Een keer kennismaken, schrijf je in voor een proefles
+      url: /
+      buttonText: Inschrijven
+    - title: Laatste nieuws
+      icon: #plug-cloud
+      text: Lees het laaste nieuws uit de club
+      url: /
+      buttonText: Lees meer
+  section2:
+    title: Trainen bij DTS doe je.
+    subtitle: Omdat jij beter wilt worden, en
+    features:
+    - title: Een wedstrijdsclub is
+      text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
+      # Icon (from static/images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Vele prof je voor ging
+      text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
+      icon: plug-cloud
+    - title: Veldrijden
+      text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
+      icon: mobile-feed
+  section3:
+
+  section4:
+
+  section5:
+
+  footer:
+    # Logo (from static/images/logos/___)
+    logo: logo_100_jaar.jpg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/StefMa91
+      icon: twitter
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "DTS"
+        links:
+        - text: Lid worden
+          link: /
+        - text: Proef les
+          link: /
+        - text: Vuurlinie
+          link: /
+        - text: Veilig Sportklimaat
+          link: /
+        - text: Categorieën
+          link: /agb
+      column2:
+        title: "Westijden"
+        links:
+        - text: Vuurlinie
+          link: /
+        - text: Ronde van Assendelft
+          link: /
+        - text: Ronde van Oostzaan
+          link: /
+      column3:
+        title: "Nieuws"
+        links:
+        - text: Nieuws
+          link: /nieuws/first
+        - text: De waaier
+          link: /blog/second
+        - text: Dagelijks bestuur
+          link: /overDTS
