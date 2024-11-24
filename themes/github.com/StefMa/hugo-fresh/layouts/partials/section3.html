@@ -1,28 +1,21 @@
-{{- $section3   := .Site.Params.section3 }}
-{{- $title      := index $section3 "title" }}
-{{- $subtitle   := index $section3 "subtitle" }}
-{{- $image      := index $section3 "image" }}
-{{- $buttonText := index $section3 "buttontext" }}
-{{- $buttonLink := index $section3 "buttonlink" }}
+{{- $section3 := .Site.Params.section3 }}
+{{- $title    := index $section3 "title" }}
+{{- $subtitle := index $section3 "subtitle" }}
+{{- $page_url := index $section3 "page_url" }}
+{{- $width    := index $section3 "width" }}
+{{- $height   := index $section3 "height" }}
+{{- $small_header := index $section3 "small_header" }}
+{{- $adapt_container_width := index $section3 "adapt_container_width" }}
+{{- $hide_cover := index $section3 "hide_cover" }}
+{{- $show_facepile := index $section3 "show_facepile" }}
+
+{{ if $section3 }}
+
 <section class="section section-feature-grey is-medium" id="section3">
-  <div class="container">
-    <div class="columns">
-      <div class="column is-10 is-offset-1">
-        <div class="has-text-centered">
-          <img class="pushed-image" src="{{ printf "images/%s" $image | relURL }}">
-        </div>
-      </div>
-    </div>
-
-    <div class="title-wrapper has-text-centered">
-      <h2 class="title is-2">{{ $title }}</h2>
-      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
-    </div>
-
-    <p class="has-text-centered mt-20">
-      <a class="button cta is-large rounded secondary-btn raised" href="{{ $buttonLink }}">
-        {{ $buttonText }}
-      </a>
-    </p>
+  <div class="container has-text-centered">
+    <h1 class="title section-title">{{ $title }}</h1>
+    <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+    {{ partial "facebook_feed.html" (dict "page_url" $page_url "width" $width "height" $height "small_header" $small_header "adapt_container_width" $adapt_container_width "hide_cover" $hide_cover "show_facepile" $show_facepile) }}
   </div>
 </section>
+{{ end }}

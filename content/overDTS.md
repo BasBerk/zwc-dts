@@ -1,6 +1,6 @@
 ---
 title: over DTS
-sidebar: false
+sidebar: True
 sidebarlogo: fresh-white-alt
 include_footer: treu
 ---

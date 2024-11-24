@@ -1,6 +1,6 @@
 ---
 title: Sportklasse
-sidebar: false
+sidebar: True
 sidebarlogo: fresh-white-alt
 include_footer: treu
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nieuwelingen
-sidebar: false
+sidebar: True
 include_footer: treu
 sidebarlogo: fresh-white-alt
 ---
