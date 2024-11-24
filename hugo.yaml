@@ -1,4 +1,4 @@
-baseURL: {{ getenv "HUGO_BASE_URL" | default "https://zwc-dts.nl/" }}
+baseURL: https://gentle-wave-0c6edc503.5.azurestaticapps.net/
 languageCode: en-us
 title: DTS 
 
