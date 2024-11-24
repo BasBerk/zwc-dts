@@ -44,7 +44,7 @@ params:
     # Button text
     buttontext: Lid worden
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/contact"
     # Hero image (from static/images/___)
     image: logos/logo_100_jaar.jpg
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -80,7 +80,7 @@ params:
   - title: Over DTS
     url: /overDTS
   - title: lid worden
-    url: /
+    url: /contact
     button: true
   sidebar:
     # Logo (from static/images/logos/___.svg)
@@ -97,7 +97,7 @@ params:
       icon: envelope
       links:
       - text: Lid worden
-        url: /
+        url: /contact
       - text: Proefless
         url: /
       - text: Meer informatie
@@ -174,7 +174,7 @@ params:
         title: "DTS"
         links:
         - text: Lid worden
-          link: /
+          link: /contact
         - text: Proef les
           link: /
         - text: Vuurlinie

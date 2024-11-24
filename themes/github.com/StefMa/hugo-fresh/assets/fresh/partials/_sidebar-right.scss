@@ -1,0 +1,23 @@
+.sidebar-right {
+  position: relative; /* Change to relative to fit within the column */
+  width: 100%; /* Adjust width to fit the column */
+  height: 400px; /* Adjust height to fit the content */
+  overflow: hidden;
+  padding: 10px;
+}
+
+.sponsor-container {
+  display: flex;
+  flex-direction: column;
+  height: auto; /* Adjust height to fit the content */
+}
+
+.sponsor {
+  flex: 0 0 auto;
+  margin-bottom: 10px;
+}
+
+.sponsor img {
+  width: 100%;
+  height: auto;
+}
