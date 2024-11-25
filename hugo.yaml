@@ -68,9 +68,9 @@ params:
     - title: jeugd
       url: /categorie/jeugd
     - title: Nieuwelingen
-      url: /
+      url: /categorie/nieuwelingen
     - title: Sportklasse
-      url: /
+      url: /categorie/sportklasse
   - title: 
     url: /
   - title: Nieuws
@@ -84,31 +84,31 @@ params:
     button: true
   sidebar:
     # Logo (from static/images/logos/___.svg)
-    logo: logo_100_jaar.jpg
-    sections:
-    - title: Wedstrijden
-      icon: user
-      links:
-      - text: Vuurlinie
-        url: /wedstrijden/vuurlinie
-      - text: Kampioenschap
-        url: /
-    - title: Lid worden
-      icon: envelope
-      links:
-      - text: Lid worden
-        url: /contact
-      - text: Proefless
-        url: /
-      - text: Meer informatie
-        url: /
-    - title: Nieuws
-      icon: image
-      links:
-      - text: Laaste nieuws
-        url: /
-      - text: Fotos
-        url: /
+    # logo: logo_100_jaar.jpg
+    # sections:
+    # - title: Wedstrijden
+    #   icon: user
+    #   links:
+    #   - text: Vuurlinie
+    #     url: /wedstrijden/vuurlinie
+    #   - text: Kampioenschap
+    #     url: /
+    # - title: Lid worden
+    #   icon: envelope
+    #   links:
+    #   - text: Lid worden
+    #     url: /contact
+    #   - text: Proefless
+    #     url: /
+    #   - text: Meer informatie
+    #     url: /
+    # - title: Nieuws
+    #   icon: image
+    #   links:
+    #   - text: Laaste nieuws
+    #     url: /
+    #   - text: Fotos
+    #     url: /
   section1:
     title: Zaanse wielerclub DTS
     subtitle: Door Trainen Sterk
@@ -174,13 +174,13 @@ params:
         - text: Lid worden
           link: /contact
         - text: Proef les
-          link: /
+          link: /contract
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
         - text: Veilig Sportklimaat
-          link: /
+          link: /veiligsport
         - text: Categorieën
-          link: /agb
+          link: /categorie/overzicht
       column2:
         title: "Westijden"
         links:
