@@ -116,12 +116,12 @@ params:
     - title: Direct inschrijven
       icon: #mouse-globe
       text: Wordt lid van DTS, een club met een rijke geschiedenis
-      url: /
+      url: /contact
       buttonText: Lid worden
     - title: Proefles
       icon: #laptop-cloud
       text: Een keer kennismaken, schrijf je in voor een proefles
-      url: /
+      url: /contact
       buttonText: Inschrijven
     - title: Laatste nieuws
       icon: #plug-cloud
@@ -164,10 +164,8 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://facebook.com/#
+    - link: https://facebook.com/zwcDTS
       icon: facebook
-    - link: https://twitter.com/StefMa91
-      icon: twitter
     bulmalogo: false
     quicklinks:
       column1:
@@ -189,15 +187,17 @@ params:
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
         - text: Ronde van Assendelft
-          link: /
+          link: /wedstrijden/assendelft
         - text: Ronde van Oostzaan
-          link: /
+          link: /wedstrijden/oostzaan
+        - text: Ronde van Krommenie
+          link: /wedstrijden/krommenie
       column3:
         title: "Nieuws"
         links:
         - text: Nieuws
-          link: /nieuws/first
+          link: /nieuws/overview
         - text: De waaier
-          link: /blog/second
+          link: /dewaaier
         - text: Dagelijks bestuur
           link: /overDTS
