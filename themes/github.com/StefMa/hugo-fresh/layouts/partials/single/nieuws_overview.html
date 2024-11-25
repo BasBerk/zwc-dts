@@ -1,0 +1,42 @@
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait column is-four-fifths">
+        <h1 class="title section-title">{{ .Title }}</h1>
+        <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
+        <div class="divider"></div>
+      </div>
+    </div>
+
+    <div class="columns">
+      <div class="content column is-four-fifths">
+        <h1>{{ .Title }}</h1>
+        <div class="news-overview">
+            {{ range where .Site.RegularPages "Section" "nieuws" }}
+            {{ if ne .File.Path "nieuws/overview.md" }}
+            <div class="news-item mt-3">
+              <h3>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <span class="has-text-weight-light is-size-7">{{ .Date.Format "02-01-2006" }}</span>
+              </h3>
+                {{ if .Params.image }}
+                <figure class="media-left mt-0 mb-0">
+                    <p class="image is-128x128">
+                      <img class="" src="{{ .Params.image }}" alt="{{ .Title }}">
+                  </p>
+                </figure>
+                {{ end }}
+                <p>{{ .Summary }}</p>
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+      </div>
+      {{ if .Params.sidebar }}
+      <div class="column is-one-fifth">
+        {{ partial "single/sidebar-right.html" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
