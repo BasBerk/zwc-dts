@@ -1,8 +1,10 @@
 ---
-title: Second
+title: "Second News Item"
+date: 2024-11-25
+layout: nieuws
+image: "/images/logos/logo_100_jaar.jpg"
 sidebar: true
-sidebarlogo: fresh-white-alt
+include_footer: treu
 ---
 
-
-My super sweet second blog post
+My super sweet first blog post!!

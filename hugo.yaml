@@ -73,8 +73,8 @@ params:
       url: /
   - title: 
     url: /
-  - title: nieuws
-    url: /
+  - title: Nieuws
+    url: /nieuws/overview
   - title: Veilig Sportbeleid
     url: /veiligsport
   - title: Over DTS
@@ -90,7 +90,7 @@ params:
       icon: user
       links:
       - text: Vuurlinie
-        url: /
+        url: /wedstrijden/vuurlinie
       - text: Kampioenschap
         url: /
     - title: Lid worden
@@ -178,7 +178,7 @@ params:
         - text: Proef les
           link: /
         - text: Vuurlinie
-          link: /
+          link: /wedstrijden/vuurlinie
         - text: Veilig Sportklimaat
           link: /
         - text: Categorieën
@@ -187,7 +187,7 @@ params:
         title: "Westijden"
         links:
         - text: Vuurlinie
-          link: /
+          link: /wedstrijden/vuurlinie
         - text: Ronde van Assendelft
           link: /
         - text: Ronde van Oostzaan
