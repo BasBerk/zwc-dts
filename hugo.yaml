@@ -75,7 +75,9 @@ params:
       url: /categorie/sportklasse
   - title: 
     url: /
-  - title: nieuws
+  - title: Trainingen
+    url: /
+  - title: Nieuws
     url: /
   - title: Veilig Sportbeleid
     url: /veiligsport
