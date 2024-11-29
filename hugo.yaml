@@ -69,6 +69,8 @@ params:
       url: /categorie/jeugd
     - title: Nieuwelingen
       url: /categorie/nieuwelingen
+    - title: Junioren
+      url: /categorie/junioren
     - title: Sportklasse
       url: /categorie/sportklasse
   - title: 
