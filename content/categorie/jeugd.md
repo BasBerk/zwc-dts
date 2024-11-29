@@ -5,22 +5,87 @@ include_footer: True
 sidebarlogo: fresh-white-alt
 ---
 
-Wat doet DTS-jeugd
+# Ontdek de Jeugdcategorieën in Wielrennen: De Basis voor Toekomstige Kampioenen!
 
-Bij DTS staat het plezier en de prestaties van de leden voorop, zowel in hun sport als met elkaar. Naast het wielrennen hebben we ons jaarlijkse kamp en diverse andere activiteiten met de jeugd centraal.
+Bij ZWC-DTS geloven we sterk in een solide basis voor onze 
+jonge wielrenners. Het wielrennen in Nederland kent een gestructureerde 
+opbouw wat betreft jeugdcategorieën, die ons in staat stelt om kinderen van 
+alle leeftijden de basisbeginselen van de wielersport te leren en hen te 
+begeleiden in hun sportieve ontwikkeling. Bij ZWC-DTS bieden we naast trainingen
+ook andere leuke activiteiten aan voor onze jeugdleden, onder andere wordt er
+ieder jaar een trainingskamp georganiseerd.
 
-Er wordt vanaf de zomertijd 2 keer per week getraind en daarnaast wordt er wel verwacht dat je wedstrijden gaat rijden. tijdens de winter doen we aan veldrijden/ mountainbiken in het Twiske of parcours rond Amsterdam.
 
-Trainingen
-De trainingen bij DTS worden verzorgd door gediplomeerde trainers.
-Op de eerste zondag van Februari begint de training om 13:00 uur, daarna als het zomertijd wordt er 2 keer in de week getraind, iedere dinsdag en donderdag vanaf 18:30, meestal is iedereen aanwezig rond 18:15 uur (Deze gaan door tot half oktober) en wordt er al gezellig met elkaar ingereden op het DTS-parcours aan de Kalverhoek.
+Hieronder vindt u een overzicht 
+van de verschillende jeugdcategorieën die onze vereniging ondersteunt.
 
-Er wordt in groepen naar niveau gereden. In het begin zal het dus soms even zoeken zijn bij welke groep jij het best kan gaan fietsen, maar meestal is dat na een of twee keer wel duidelijk.
+## Categorieën in het Jeugdwielrennen
+### Starters (5 - 7 jaar)
+De allerkleinsten kunnen bij ons kennismaken met de wielersport. Met speelse 
+trainingen leren zij balans te houden op de fiets en krijgen zij het plezier in
+fietsen met de paplepel ingegoten.
 
-Er wordt getraind op het DTS parcours, dit is een afgesloten parcours. En er wordt “buiten” gereden, je gaat dan op de gewone openbare weg met je groep fietsen, natuurlijk wel met genoeg begeleiding van “meerij ouders” en trainers. Je kunt dan bijvoorbeeld naar het Twiske fietsen of soms richting Purmerend.
+### Categorie 1 (8 jaar)
+Zodra kinderen de leeftijd van 8 jaar bereiken, start hun eerste officiële 
+competeitiejaar. De focus ligt op spelenderwijs leren en de basis van het fietsen.
 
-Tijdens de training leer je natuurlijk allerlei dingen, zoals stuurbeheersing, hoe een bocht goed te fietsen met hogere snelheid bijvoorbeeld, maar er zijn ook trainingen met veel sprints of waarbij je juist een heel lang stuk op hetzelfde tempo gaat rijden, een duurtraining. Ook wordt er op het parcours tijdrijden geoefend.
+### Categorie 2 (9 jaar)
+Met een jaar ervaring op zak, beginnen de renners aan categorie 2. We bouwen l
+angzaam de technische vaardigheden uit en introduceren tactische elementen.
 
-Na de training drinken we altijd met zijn allen gezellig een kop thee, en wordt er nagepraat over de training of natuurlijk andere belangrijke dingen die er gebeurt zijn.
+### Categorie 3 (10 jaar)
+Hier beginnen we met het verder ontwikkelen van fietsvaardigheden en het leren 
+van racestrategieën. De races worden al iets langer en uitdagender.
 
-wil je een keer proberen, dan hebben we op de eerste donderdag van de maand een speciale training voor aankomende talenten. daarna ben je nog max drie donderdagen welkom om mee te trainen. daarna moet je beslissen om lid te worden. (wat natuurlijk ook direct kan). heb je hier interesse in, vul dan via onderstaande link het inschrijf formulier in.
+### Categorie 4 (11 jaar)
+Op 11-jarige leeftijd verwachten we een grotere zelfstandigheid op de fiets 
+en voorzien we in meer gestructureerde trainingen die gericht zijn op competitie.
+
+### Categorie 5 (12 jaar)
+Naarmate de renners ouder worden, verhogen we het trainingsniveau en worden 
+de wedstrijden steeds serieuzer en strategischer. We bevorderen ook de teamgeest 
+en leren de kinderen over het belang van teamwork.
+
+### Categorie 6 (13 jaar)
+De fysieke en strategische trainingen worden intensiever. We bereiden onze 
+renners voor op het omgaan met langere en meer veeleisende parcoursen.
+
+### Categorie 7 (14 jaar)
+Als laatste stap voor het bereiken van de nieuwelingen categorie leggen we een
+solide basis voor de overstap. De races zijn bijna van gelijke lengte en 
+intensiviteit als bij de nieuwelingen.
+
+## Training en Wedstrijden
+Elke categorie krijgt trainingen die zijn aangepast aan hun leeftijd en 
+ontwikkelingsniveau. De trainingen bij DTS worden verzorgd door gediplomeerde trainers. 
+De wedstrijden die bij deze categorieën horen zijn vaak 
+korter dan die voor oudere renners, maar bieden voldoende uitdaging en opwinding
+voor onze jonge atleten.
+
+We richten ons op een allround ontwikkeling, waarbij plezier in de sport 
+centraal staat. We geloven dat een kind dat plezier heeft in het fietsen, 
+gemotiveerd blijft om te trainen en te racen.
+
+Tijdens de training leer je allerlei dingen, zoals stuurbeheersing,
+hoe een bocht goed te fietsen met hogere snelheid bijvoorbeeld, maar er 
+zijn ook trainingen met veel sprints of waarbij je juist een heel lang stuk
+op hetzelfde tempo gaat rijden, een duurtraining. Ook wordt er op het parcours
+tijdrijden geoefend.
+
+Er wordt vanaf de zomertijd 2 keer per week getraind en daarnaast wordt er 
+verwacht dat je wedstrijden gaat rijden. Tijdens de winter doen we aan 
+veldrijden/ mountainbiken op ons eigen cross-parcours.
+Er wordt getraind op het DTS parcours, dit is een afgesloten parcours. En 
+er wordt “buiten” gereden, je gaat dan op de gewone openbare weg met je
+groep fietsen, natuurlijk wel met genoeg begeleiding van “meerij ouders” en
+trainers. Je kunt dan bijvoorbeeld naar het Twiske fietsen of soms richting
+Purmerend.
+
+
+
+# Doe Mee!
+Geïnteresseerd om deel uit te maken van onze jeugd?
+Of je nu wilt beginnen met wielrennen of je wielerambities naar een hoger niveau
+wilt tillen, ZWC-DTS biedt een uitnodigende en ondersteunende 
+omgeving voor iedere jonge renner. Neem contact met ons op via [contact]({{< ref "../contact.md" >}}) 
+voor meer informatie over onze jeugdprogramma's!
