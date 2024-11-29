@@ -77,14 +77,14 @@ params:
       url: /categorie/elite_belofte
   - title: 
     url: /
-  - title: Trainingen
-    url: /
   - title: Nieuws
     url: /
   - title: Veilig Sportbeleid
     url: /veiligsport
   - title: Over DTS
     url: /overDTS
+  - title: Trainingen
+    url: /trainingen
   - title: lid worden
     url: /contact
     button: true
