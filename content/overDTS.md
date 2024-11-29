@@ -15,34 +15,34 @@ include_footer: treu
 
 # Contact Commisies, Trainers en Begeleiders
 
-| Functie                                     | Naam                  | Mailadres                |
-| ------------------------------------------- | --------------------- | ------------------------ |
-| Ledenadministratie                          | Roel van Wijk         | secretariaat@zwc-dts.nl  |
-| Beheer clubparkoers                         | Peter Bode            | peter@peterbode.nl       |
-| Beheer clubgebouw                           | Chris Kleijn          | kleijn14@hotmail.com     |
-| Open Wedstrijden                            | Cor Bart en Linda Ton | lico@hetnet.nl           |
-| Clubwedstrijden                             | Vacant                | secretariaat@zwc-dts.nl  |
-| Technische Zaken                            | Peter van Niekerk     | katinkapeter@hotmail.nl  |
-| Jeugdcommissie                              | Chris Kleijn          | kleijn14@hotmail.com     |
-| Jeugdcommissie                              | Vacant                | secretariaat@zwc-dts.nl  |
-| Hoofd trainer jeugd                         | Peter van Niekerk     | katinkapeter@hotmail.nl  |
-| Begeleider Elite & Beloften                 | Vacant                | secretariaat@zwc-dts.nl  |
-| Begeleider Nieuwelingen Jongens             | Ilja de Vries         | iljadevries@upcmail.nl   |
-| Begeleider Nieuwelingen en Junioren Meisjes | Ilja de Vries         | iljadevries@upcmail.nl   |
-| Begeleider Junioren                         | Ilja de Vries         | iljadevries@upcmail.nl   |
-| Begeleider Amateurs & Sportklasse           | Rick Krijt            | rick.krijt@waternet.nl   |
-| Begeleider Dames                            | Vacant                |                          |
-| Trainer Nieuwelingen                        | Vacant                | secretariaat@zwc-dts.nl  |
-| Trainer Nieuwelingen en Junioren meisjes    | Vacant                | secretariaat@zwc-dts.nl  |
-| Trainer Junioren                            | Vacant                | secretariaat@zwc-dts.nl  |
-| Vertrouwenspersoon veilig sportklimaat      | Nol van der Linden    | nvln@planet.nl           |
-| Vertrouwenspersoon veilig sportklimaat      | Jolanda Krijt         | j.krijt@i-dt.nl          |
-| Nieuwsbrief De Waaier                       | Nynke Hoekmeijer      | Nieuwsbriefdts@gmail.com |
+| Functie                                     | Naam                           | Mailadres                |
+| ------------------------------------------- |--------------------------------|--------------------------|
+| Ledenadministratie                          | Roel van Wijk                  | secretariaat@zwc-dts.nl  |
+| Beheer clubparkoers                         | Peter Bode                     | peter@peterbode.nl       |
+| Beheer clubgebouw                           | Chris Kleijn                   | kleijn14@hotmail.com     |
+| Open Wedstrijden                            | Cor Bart en Linda Ton          | lico@hetnet.nl           |
+| Clubwedstrijden                             | Vacant                         | secretariaat@zwc-dts.nl  |
+| Technische Zaken                            | Vacant                         | secretariaat@zwc-dts.nl  |
+| Jeugdcommissie                              | Sjors Oenen                    | sjors_oenen@hotmail.com  |
+| Jeugdcommissie                              | Koen Roding                    | koenroding@icloud.com    |
+| Hoofd trainer jeugd                         | Peter van Niekerk              | katinkapeter@hotmail.nl  |
+| Begeleider Elite & Beloften                 | Vacant                         | secretariaat@zwc-dts.nl  |
+| Begeleider Nieuwelingen Jongens             | Peter van Niekerk              | katinkapeter@hotmail.nl  |
+| Begeleider Nieuwelingen en Junioren Meisjes | Vacant                         | secretariaat@zwc-dts.nl  |
+| Begeleider Junioren                         | Vacant                         | secretariaat@zwc-dts.nl  |
+| Begeleider Amateurs & Sportklasse           | Rick Krijt                     | krijtrick@gmail.com      |
+| Begeleider Dames                            | Vacant                         | secretariaat@zwc-dts.nl  |
+| Trainer Nieuwelingen                        | Peter van Niekerk - Rick Krijt | katinkapeter@hotmail.nl  |
+| Trainer Nieuwelingen en Junioren meisjes    | Peter van Niekerk - Rick Krijt | krijtrick@gmail.com      |
+| Trainer Junioren                            | Vacant                         | secretariaat@zwc-dts.nl  |
+| Vertrouwenspersoon veilig sportklimaat      | Nol van der Linden             | nvln@planet.nl           |
+| Vertrouwenspersoon veilig sportklimaat      | Jolanda Krijt                  | j.krijt@i-dt.nl          |
+| Nieuwsbrief De Waaier                       | Nynke Hoekmeijer               | Nieuwsbriefdts@gmail.com |
 
 ## Ere leden
 
 | Ereleden                   | Leden van verdienste    | Erevoorzitter         |
-| -------------------------- | ----------------------- | --------------------- |
+|----------------------------| ----------------------- | --------------------- |
 | Cor Bakker i.m.            | Jan van Ammers          | Kobus Cornelisse i.m. |
 | Gerrit Blaauw i.m.         | Bert Bakker             |                       |
 | Jan Broerse i.m.           | Cor Bakker i.m.         |                       |
@@ -58,7 +58,7 @@ include_footer: treu
 | Niki Terpstra              | Piet Stadt              |                       |
 | Roel van Wijk              | Joop Verhoef            |                       |
 | Yoeri Havik                | Thomas Visser i.m.      |                       |
-|                            | Jan Vollaard            |                       |
+| Bert Braspenning           | Jan Vollaard            |                       |
 |                            | P. Valenteijn i.m.      |                       |
 |                            | D. de Vries Tz. i.m.    |                       |
 |                            | Dave Bakker             |                       |

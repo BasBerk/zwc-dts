@@ -65,12 +65,16 @@ params:
   - title: Categorieën
     url: /
     sublinks:
-    - title: jeugd
+    - title: Jeugd
       url: /categorie/jeugd
     - title: Nieuwelingen
       url: /categorie/nieuwelingen
+    - title: Junioren
+      url: /categorie/junioren
     - title: Sportklasse
       url: /categorie/sportklasse
+    - title: Elite/Beloften
+      url: /categorie/elite_belofte
   - title: 
     url: /
   - title: Nieuws
@@ -79,6 +83,8 @@ params:
     url: /veiligsport
   - title: Over DTS
     url: /overDTS
+  - title: Trainingen
+    url: /trainingen
   - title: lid worden
     url: /contact
     button: true
