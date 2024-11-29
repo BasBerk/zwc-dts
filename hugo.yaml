@@ -78,7 +78,7 @@ params:
   - title: 
     url: /
   - title: Nieuws
-    url: /
+    url: /nieuws/overview
   - title: Veilig Sportbeleid
     url: /veiligsport
   - title: Over DTS
@@ -90,31 +90,31 @@ params:
     button: true
   sidebar:
     # Logo (from static/images/logos/___.svg)
-    logo: logo_100_jaar.jpg
-    sections:
-    - title: Wedstrijden
-      icon: user
-      links:
-      - text: Vuurlinie
-        url: /
-      - text: Kampioenschap
-        url: /
-    - title: Lid worden
-      icon: envelope
-      links:
-      - text: Lid worden
-        url: /contact
-      - text: Proefless
-        url: /
-      - text: Meer informatie
-        url: /
-    - title: Nieuws
-      icon: image
-      links:
-      - text: Laaste nieuws
-        url: /
-      - text: Fotos
-        url: /
+    # logo: logo_100_jaar.jpg
+    # sections:
+    # - title: Wedstrijden
+    #   icon: user
+    #   links:
+    #   - text: Vuurlinie
+    #     url: /wedstrijden/vuurlinie
+    #   - text: Kampioenschap
+    #     url: /
+    # - title: Lid worden
+    #   icon: envelope
+    #   links:
+    #   - text: Lid worden
+    #     url: /contact
+    #   - text: Proefless
+    #     url: /
+    #   - text: Meer informatie
+    #     url: /
+    # - title: Nieuws
+    #   icon: image
+    #   links:
+    #   - text: Laaste nieuws
+    #     url: /
+    #   - text: Fotos
+    #     url: /
   section1:
     title: Zaanse wielerclub DTS
     subtitle: Door Trainen Sterk
@@ -122,12 +122,12 @@ params:
     - title: Direct inschrijven
       icon: #mouse-globe
       text: Wordt lid van DTS, een club met een rijke geschiedenis
-      url: /
+      url: /contact
       buttonText: Lid worden
     - title: Proefles
       icon: #laptop-cloud
       text: Een keer kennismaken, schrijf je in voor een proefles
-      url: /
+      url: /contact
       buttonText: Inschrijven
     - title: Laatste nieuws
       icon: #plug-cloud
@@ -170,10 +170,8 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://facebook.com/#
+    - link: https://facebook.com/zwcDTS
       icon: facebook
-    - link: https://twitter.com/StefMa91
-      icon: twitter
     bulmalogo: false
     quicklinks:
       column1:
@@ -182,28 +180,30 @@ params:
         - text: Lid worden
           link: /contact
         - text: Proef les
-          link: /
+          link: /contract
         - text: Vuurlinie
-          link: /
+          link: /wedstrijden/vuurlinie
         - text: Veilig Sportklimaat
-          link: /
+          link: /veiligsport
         - text: Categorieën
-          link: /agb
+          link: /categorie/overzicht
       column2:
         title: "Westijden"
         links:
         - text: Vuurlinie
-          link: /
+          link: /wedstrijden/vuurlinie
         - text: Ronde van Assendelft
-          link: /
+          link: /wedstrijden/assendelft
         - text: Ronde van Oostzaan
-          link: /
+          link: /wedstrijden/oostzaan
+        - text: Ronde van Krommenie
+          link: /wedstrijden/krommenie
       column3:
         title: "Nieuws"
         links:
         - text: Nieuws
-          link: /nieuws/first
+          link: /nieuws/overview
         - text: De waaier
-          link: /blog/second
+          link: /dewaaier
         - text: Dagelijks bestuur
           link: /overDTS
