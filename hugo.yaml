@@ -73,6 +73,8 @@ params:
       url: /categorie/junioren
     - title: Sportklasse
       url: /categorie/sportklasse
+    - title: Elite/Beloften
+      url: /categorie/elite_belofte
   - title: 
     url: /
   - title: Trainingen
