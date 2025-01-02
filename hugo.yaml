@@ -50,16 +50,20 @@ params:
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
-    - logo: Kremers
-      url: https://google.com
-    - logo: armada
-      url: https://stefma.github.io/hugo-fresh/
-    - logo: viro
-      url: https://bulma.io/
-    - logo: bakker
-      url: https://github.com/StefMa/hugo-fresh
-    - logo: tentij
-      url: https://hugo-fresh.vercel.app/
+    - logo: Kremers.svg
+      url: #
+    - logo: armada.svg
+      url: #
+    - logo: viro.svg
+      url: #
+    - logo: bakker.svg
+      url: #
+    - logo: tentij.svg
+      url: #
+    - logo: fysio.jpg
+      url: #
+    - logo: poke.png
+      url: #
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Categorieën
