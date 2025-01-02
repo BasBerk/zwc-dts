@@ -1,6 +1,6 @@
 baseURL: https://gentle-wave-0c6edc503.5.azurestaticapps.net/
 languageCode: en-us
-title: DTS 
+title: Zaanse wielerclub DTS 
 
 module:
   # uncomment line below for local development of module
@@ -169,7 +169,7 @@ params:
 
   footer:
     # Logo (from static/images/logos/___)
-    logo: logo_100_jaar.jpg
+    logo: logo.jpg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
