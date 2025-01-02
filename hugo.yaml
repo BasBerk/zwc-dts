@@ -28,7 +28,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo_100_jaar.jpg
+    image: logos/logo.jpg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -46,7 +46,7 @@ params:
     # Where the main hero button links to
     buttonlink: "/contact"
     # Hero image (from static/images/___)
-    image: logos/logo_100_jaar.jpg
+    image: dts-race.jpg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
@@ -124,34 +124,34 @@ params:
     subtitle: Door Trainen Sterk
     tiles:
     - title: Direct inschrijven
-      icon: #mouse-globe
+      icon: signup
       text: Wordt lid van DTS, een club met een rijke geschiedenis
       url: /contact
       buttonText: Lid worden
     - title: Proefles
-      icon: #laptop-cloud
+      icon: Cycling-Icon-1
       text: Een keer kennismaken, schrijf je in voor een proefles
       url: /contact
       buttonText: Inschrijven
     - title: Laatste nieuws
-      icon: #plug-cloud
+      icon: Champion-Icon2
       text: Lees het laaste nieuws uit de club
-      url: /
+      url: /nieuws/overview/
       buttonText: Lees meer
-  section2:
-    title: Trainen bij DTS doe je.
-    subtitle: Omdat jij beter wilt worden, en
-    features:
-    - title: Een wedstrijdsclub is
-      text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
-      # Icon (from static/images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Vele profs ging je voor
-      text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
-      icon: plug-cloud
-    - title: Veldrijden
-      text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
-      icon: mobile-feed
+#  section2:
+    # title: Trainen bij DTS doe je.
+    # subtitle: Omdat jij beter wilt worden, en
+    # features:
+    # - title: Een wedstrijdsclub is
+    #   text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
+    #   # Icon (from static/images/illustrations/icons/___.svg)
+    #   icon: laptop-globe
+    # - title: Vele profs ging je voor
+    #   text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
+    #   icon: plug-cloud
+    # - title: Veldrijden
+    #   text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
+    #   icon: mobile-feed
 
   section3:
     title: Facebook nieuws
