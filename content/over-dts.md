@@ -1,5 +1,5 @@
 ---
-title: over DTS
+title: over ZW-DTS
 sidebar: True
 sidebarlogo: fresh-white-alt
 include_footer: treu
