@@ -1,17 +1,71 @@
 {{- $hero        := .Site.Params.hero }}
 {{- $clientLogos := index $hero "clientlogos" }}
+<style>
+  @keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(calc(-250px * 7))} /* adjust the multiplier based on number of logos */
+  }
+  .scroll-container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    background: white;
+  }
+  .logos-wrapper {
+    display: flex;
+    gap: 20px;
+    animation: scroll 25s linear infinite;
+    width: fit-content;
+  }
+  .logos-wrapper:hover {
+    animation-play-state: paused;
+  }
+  .logo-item {
+    flex-shrink: 0;
+    width: 250px; /* fixed width for each logo container */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .partner-logo {
+    height: 60px;
+    width: auto;
+  }
+</style>
+
 <div class="hero-foot mb-20">
   <div class="container">
-    <div class="tabs is-centered">
-      <ul>
+    <div class="scroll-container">
+      <div class="logos-wrapper">
         {{- range $clientLogos }}
-        <li>
+        <div class="logo-item">
           <a {{ if .url }} href="{{ .url }}" {{ end }}>
-            <img class="partner-logo" src="{{ printf "images/logos/clients/%s.svg" .logo | relURL }}">
+            <img class="partner-logo" src="{{ printf "images/logos/clients/%s" .logo | relURL }}">
           </a>
-        </li>
+        </div>
         {{- end }}
-      </ul>
+        {{- range $clientLogos }}
+        <div class="logo-item">
+          <a {{ if .url }} href="{{ .url }}" {{ end }}>
+            <img class="partner-logo" src="{{ printf "images/logos/clients/%s" .logo | relURL }}">
+          </a>
+        </div>
+        {{- end }}
+        {{- range $clientLogos }}
+        <div class="logo-item">
+          <a {{ if .url }} href="{{ .url }}" {{ end }}>
+            <img class="partner-logo" src="{{ printf "images/logos/clients/%s" .logo | relURL }}">
+          </a>
+        </div>
+        {{- end }}
+        {{- range $clientLogos }}
+        <div class="logo-item">
+          <a {{ if .url }} href="{{ .url }}" {{ end }}>
+            <img class="partner-logo" src="{{ printf "images/logos/clients/%s" .logo | relURL }}">
+          </a>
+        </div>
+        {{- end }}
+      </div>
     </div>
   </div>
 </div>
