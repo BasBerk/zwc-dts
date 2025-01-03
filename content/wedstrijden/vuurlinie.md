@@ -1,7 +1,7 @@
 ---
 title: Vuurlinie
 sidebar: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 include_footer: True
 ---
 

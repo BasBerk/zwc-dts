@@ -2,7 +2,7 @@
 title: Overzicht
 sidebar: True
 include_footer: treu
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 # Jeugd

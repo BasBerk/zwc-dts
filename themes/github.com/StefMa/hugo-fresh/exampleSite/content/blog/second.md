@@ -1,7 +1,7 @@
 ---
 title: Second
 sidebar: true
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 {{% title2 "My awesome blogpost" %}}

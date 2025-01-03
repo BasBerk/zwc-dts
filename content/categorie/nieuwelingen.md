@@ -2,7 +2,7 @@
 title: Nieuwelingen
 sidebar: True
 include_footer: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 # Welkom bij de Nieuwelingen – De Toekomst van Wielrennen in Nederland

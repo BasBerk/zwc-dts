@@ -1,7 +1,7 @@
 ---
 title: First
 sidebar: true
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 My super sweet first blog post!!
