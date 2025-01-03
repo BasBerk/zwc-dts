@@ -1,7 +1,7 @@
 ---
 title: Nieuws
 sidebar: true
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 layout: nieuwsOverview
 include_footer: treu
 ---

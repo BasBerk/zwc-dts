@@ -2,7 +2,7 @@
 title: Elite/Belofte
 sidebar: True
 include_footer: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 # Elite/Belofte: De Top van het Amateurwielrennen

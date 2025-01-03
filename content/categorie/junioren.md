@@ -2,7 +2,7 @@
 title: Junioren
 sidebar: True
 include_footer: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 # Junioren Wielrennen: Een Nieuwe Fase vol Uitdagingen en Kansen

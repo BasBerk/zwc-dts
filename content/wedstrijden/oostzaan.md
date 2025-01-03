@@ -1,7 +1,7 @@
 ---
 title: Oostzaan
 sidebar: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 include_footer: True
 ---
 

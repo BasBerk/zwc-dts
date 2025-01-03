@@ -93,8 +93,7 @@ params:
     url: /contact
     button: true
   sidebar:
-    # Logo (from static/images/logos/___.svg)
-    # logo: logo_100_jaar.jpg
+     logo: logos/logo.jpg
     # sections:
     # - title: Wedstrijden
     #   icon: user

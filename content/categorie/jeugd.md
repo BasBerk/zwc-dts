@@ -2,7 +2,7 @@
 title: Jeugd
 sidebar: True
 include_footer: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 ---
 
 # Ontdek de Jeugdcategorieën in Wielrennen: De Basis voor Toekomstige Kampioenen!
