@@ -1,8 +1,8 @@
 ---
 title: "Voorjaarscompetitie Groot Amsterdam 2025"
-date: 2024-11-25
+date: 2022-02-11
 layout: nieuws
-image: "/images/logos/logo_100_jaar.jpg"
+image: "/images/logos/logo.jpg"
 sidebar: true
 include_footer: treu
 ---

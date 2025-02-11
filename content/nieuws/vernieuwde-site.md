@@ -1,6 +1,6 @@
 ---
 title: "Vernieuwde website ZWC DTS - Klaar voor de toekomst!"
-date: 2024-11-24
+date: 2022-02-11
 layout: nieuws
 image: "/images/logos/logo.jpg"
 sidebar: true
