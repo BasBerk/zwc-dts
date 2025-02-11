@@ -64,6 +64,8 @@ params:
       url: #
     - logo: poke.png
       url: #
+    - logo: va.png
+      url: #
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Categorieën
