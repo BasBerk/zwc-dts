@@ -1,7 +1,7 @@
 ---
-title: over DTS
+title: over ZW-DTS
 sidebar: True
-sidebarlogo: fresh-white-alt
+sidebarlogo: logo
 include_footer: treu
 ---
 # Dagelijk bestuur
