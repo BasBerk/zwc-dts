@@ -10,7 +10,7 @@ include_footer: True
 Deze competitie organiseren we in samenwerking met BRC en is bedoeld voor mannen en vrouwen met een nieuweling-, junior-, sportklasse-, amateur-, belofte- of elitelicentie.
 
 ## Wanneer?
-BRC Kennemerland en DTS Zaanstreek organiseren in de zomerperiode van 2024 de vuurliniecompetitie. Elke woensdagavond is er koers. De ene week op het parcours van DTS en de week daarop bij BRC Kennemerland. Kijk op de kalender waar de eerstvolgende wedstrijd is.
+BRC Kennemerland en DTS Zaanstreek organiseren in de zomerperiode van 2025 de vuurliniecompetitie. Elke woensdagavond is er koers. De ene week op het parcours van DTS en de week daarop bij BRC Kennemerland. Kijk op de kalender waar de eerstvolgende wedstrijd is.
 
 ## Voor wie?
 De wedstrijd is voor verschillende categorieën. De start is wel gezamenlijk, maar de categorieën sprinten op verschillende momenten af.  Let dus goed op voor welke categorie jij jezelf inschrijft.
