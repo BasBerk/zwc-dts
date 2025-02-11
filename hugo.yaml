@@ -185,7 +185,7 @@ params:
         - text: Lid worden
           link: /contact
         - text: Proef les
-          link: /contract
+          link: /contact
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
         - text: Veilig Sportklimaat
@@ -208,7 +208,7 @@ params:
         links:
         - text: Nieuws
           link: /nieuws/overview
-        - text: De waaier
-          link: /dewaaier
+        # - text: De waaier
+        #   link: /dewaaier
         - text: Dagelijks bestuur
-          link: /overDTS
+          link: /over-dts
