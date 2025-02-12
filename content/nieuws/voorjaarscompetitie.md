@@ -1,10 +1,10 @@
 ---
 title: "Voorjaarscompetitie Groot Amsterdam 2025"
-date: 2022-02-11
+date: 2025-02-11
 layout: nieuws
 image: "/images/logos/logo.jpg"
 sidebar: true
-include_footer: treu
+include_footer: true
 ---
 Nieuw jaar, nieuw seizoen, nieuwe kansen! Met het voorjaar in aantocht presenteren we vol enthousiasme de Voorjaarscompetitie Groot Amsterdam 2025. 
 Deze vernieuwende competitie brengt alle regionale wedstrijden samen in één overkoepelend klassement, specifiek gericht op jeugd- en clubrenners.
