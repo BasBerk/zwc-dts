@@ -3,5 +3,5 @@ title: Nieuws
 sidebar: true
 sidebarlogo: logo
 layout: nieuwsOverview
-include_footer: treu
+include_footer: true
 ---
