@@ -19,7 +19,7 @@ de voorbereiding en deelname aan evenementen.
 - Winter (Vanaf januari tot eind maart):
   - Dinsdag: Crosstraining - 19:00 - 20:30 (parcours DTS)
   - Zaterdag: Duurtraining - 9:30 (Vertrek clubgebouw DTS)
-### Jeugd (Nieuwelingen, Junioren en alle jeygd categorieën)
+### Jeugd (Nieuwelingen, Junioren en alle jeugd categorieën)
 - Zomer (Vanaf zomer tijd tot eind september):
   - Dinsdag: Groepstraining vanaf 18.00 op de baan bij DTS
   - Donderdag: Groepstraining - 18:30 - 19:30 
