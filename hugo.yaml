@@ -68,6 +68,8 @@ params:
       url: #
     - logo: va.png
       url: #
+    - logo: Kauffman-vanseijst.png
+      url: #
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Categorieën
