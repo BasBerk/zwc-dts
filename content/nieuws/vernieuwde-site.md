@@ -16,6 +16,3 @@ We zijn natuurlijk erg benieuwd naar uw ervaring met de nieuwe website. Heeft u 
 
 Blijf de website regelmatig bezoeken voor het laatste nieuws, foto's van evenementen en updates over onze clubactiviteiten!
 
----
-
-Wilt u nog andere aanpassingen aan de tekst of de opmaak?
