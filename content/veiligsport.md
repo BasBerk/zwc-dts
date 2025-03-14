@@ -2,7 +2,7 @@
 title: Veilig sportklimaat
 sidebar: True
 sidebarlogo: logo
-include_footer: treu
+include_footer: true
 ---
 Veilig sportklimaat
 
