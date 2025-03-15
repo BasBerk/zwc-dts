@@ -4,7 +4,7 @@ date: 2025-02-11
 layout: nieuws
 image: "/images/logos/logo.jpg"
 sidebar: true
-include_footer: true
+include_footer: True
 ---
 Met grote vreugde presenteren wij de volledig vernieuwde website van ZWC DTS. In de afgelopen periode hebben we hard gewerkt aan een grondige modernisering van onze online aanwezigheid. Het resultaat mag er zijn: een frisse, overzichtelijke website die perfect aansluit bij de dynamische uitstraling van onze wielerclub.
 
