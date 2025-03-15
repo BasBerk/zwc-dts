@@ -2,7 +2,7 @@
 title: over ZW-DTS
 sidebar: True
 sidebarlogo: logo
-include_footer: treu
+include_footer: True
 ---
 
 # Dagelijk bestuur

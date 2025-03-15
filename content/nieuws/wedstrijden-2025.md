@@ -4,7 +4,7 @@ date: 2025-02-15
 layout: nieuws
 image: "/images/news/wedstrijden2025.gif"
 sidebar: true
-include_footer: true
+include_footer: True
 ---
 Het nieuwe wegseizoen staat voor de deur en er is weer een mooi programma samengesteld. 
 Dit seizoen staan er diverse wedstrijden op de kalender, met als absoluut hoogtepunt de landelijke jeugdwedstrijd op zaterdag 10 mei.

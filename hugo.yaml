@@ -53,21 +53,21 @@ params:
     # urls are optional
     clientlogos:
     - logo: Kremers.svg
-      url: #
+      url: https://mkkadvies.nl/
     - logo: armada.svg
-      url: #
+      url: https://www.armadamobility.nl
     - logo: viro.svg
-      url: #
+      url: https://www.viro-group.com/nl/
     - logo: bakker.svg
-      url: #
+      url: https://www.bakkerheftrucks.com/nl/
     - logo: tentij.svg
-      url: #
+      url: https://www.tentijbv.nl/
     - logo: fysio.jpg
-      url: #
+      url: http://www.fysiobikefitting.nl/
     - logo: poke.png
-      url: #
+      url: https://pokeperfect.nl/
     - logo: va.png
-      url: #
+      url: https://www.vanassemaschilders.nl/
     - logo: Kauffman-vanseijst.png
       url: #
   # Customizable navbar. For a dropdown, add a "sublinks" list.
