@@ -55,7 +55,7 @@ Alle sessies vinden plaats op het wielerparcours van **Sportpark Kalverhoek** in
 
 ## Wat kost het?
 
-- Geen kosten
+- 2 euro.
 
 ## Wat moet je meenemen?
 
