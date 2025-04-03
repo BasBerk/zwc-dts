@@ -14,7 +14,7 @@ description: "Instapkoers voor beginnende wielrenners bij DTS Zaanstreek"
 
 DTS Zaanstreek organiseert in 2025 weer de populaire Instapkoer-avonden voor beginnende wielrenners die willen leren koersen. Of je nu al wat ervaring hebt of voor het eerst in een peloton wilt rijden, iedereen is welkom!
 
-## Wat is de Instapkoer?
+## Wat is de Instapkoers?
 
 De Instapkoer is speciaal ontwikkeld voor wielrenners die de eerste stappen willen zetten in het wedstrijdwielrennen. Onder begeleiding van ervaren wedstrijdrenners leer je de basistechnieken van het koersen in een veilige omgeving.
 
