@@ -10,7 +10,7 @@
 
     <div class="columns">
       <div class="content column is-four-fifths">
-        <h1>{{ .Title }}</h1>
+        
         <div class="news-overview">
             {{ range where .Site.RegularPages "Section" "nieuws" }}
             {{ if ne .File.Path "nieuws/overview.md" }}
@@ -20,11 +20,13 @@
                 <span class="has-text-weight-light is-size-7">{{ .Date.Format "02-01-2006" }}</span>
               </h3>
                 {{ if .Params.image }}
-                <figure class="media-left mt-0 mb-0">
-                    <p class="image is-128x128">
-                      <img class="" src="{{ .Params.image }}" alt="{{ .Title }}">
-                  </p>
-                </figure>
+                <a href="{{ .Permalink }}">
+                  <figure class="media-left mt-0 mb-0">
+                      <p class="image is-128x128">
+                        <img class="" src="{{ .Params.image }}" alt="{{ .Title }}">
+                    </p>
+                  </figure>
+                </a>
                 {{ end }}
                 <p>{{ .Summary }}</p>
             </div>
