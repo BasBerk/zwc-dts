@@ -25,7 +25,7 @@ params:
   # Used as meta data; describe your site to make Google Bots happy
   description:
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
-  # preloader: false
+  preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo.jpg
@@ -99,7 +99,7 @@ params:
     url: /contact
     button: true
   sidebar:
-     logo: logos/logo.jpg
+     logo: logo
     # sections:
     # - title: Wedstrijden
     #   icon: user
@@ -201,6 +201,8 @@ params:
         links:
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
+        - text: Instapkoers
+          link: /wedstrijden/instapkoers          
         - text: Ronde van Assendelft
           link: /wedstrijden/assendelft
         - text: Ronde van Oostzaan

@@ -8744,7 +8744,7 @@ body #backtotop a {
   /* Change to relative to fit within the column */
   width: 100%;
   /* Adjust width to fit the column */
-  height: 400px;
+  height: 600px;
   /* Adjust height to fit the content */
   overflow: hidden;
   padding: 10px; }
