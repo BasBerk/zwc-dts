@@ -1,4 +1,4 @@
-name: Azure Static Web Apps CI/CD
+name: Build and Deploy to Azure Static Web Apps (calm-sky-050924203)
 
 on:
   push:
