@@ -11,7 +11,7 @@ module:
 caches:
   images:
     dir: :cacheDir/images
-
+re;ativeURLs: true
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
 # Disables warnings
 disableKinds:
