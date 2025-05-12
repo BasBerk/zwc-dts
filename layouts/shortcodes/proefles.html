@@ -1,0 +1,92 @@
+<form action="https://formspree.io/f/xnndgbaz" method="POST">
+    <div class="field">
+        <label class="label">Email:</label>
+        <div class="control">
+            <input class="input" type="email" name="email" placeholder="Voer uw email adres in..." required>
+        </div>
+    </div>
+
+    <div class="field">
+        <label class="label">Voornaam:</label>
+        <div class="control">
+            <input class="input" type="text" name="Voornaam" placeholder="Voer uw voornaam in..." required>
+        </div>
+    </div>
+
+    <div class="field">
+        <label class="label">Achternaam:</label>
+        <div class="control">
+            <input class="input" type="text" name="Achternaam" placeholder="Voer uw achternaam in..." required>
+        </div>
+    </div>
+
+    <div class="field">
+        <label class="label">Geboortedatum:</label>
+        <div class="control">
+            <input class="input" type="date" name="Geboortedatum" required>
+        </div>
+    </div>
+
+    <div class="field">
+        <label class="label">Telefoonnummer:</label>
+        <div class="control">
+            <input class="input" type="tel" name="Telefoonnummer" placeholder="Voer uw telefoonnummer in..." required>
+        </div>
+    </div>
+
+
+    <div class="field">
+        <label class="label">Man / Vrouw</label>
+        <div class="control">
+            <div class="select" id="geslacht" name="Geslacht">
+                <select name="Geslacht" required>
+                    <option value="" disabled selected>Kies een optie</option>
+                    <option value="Man">Man</option>
+                    <option value="Vrouw">Vrouw</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="field">
+        <label class="label">Heeft ervaring met wielersport</label>
+        <div class="control">
+            <div class="select" id="ervaring" name="ervaring">
+                <select name="ervaring" required>
+                    <option value="" disabled selected>Kies een optie</option>
+                    <option value="nee">Nee</option>
+                    <option value="Wielrennen">Wielrennen</option>
+                    <option value="Mountainbiken">Mountainbiken</option>
+                    <option value="Baanwielrennen">Baanwielrennen</option>
+                    <option value="BMX">BMX</option>
+                    <option value="Cyclocross">Cyclocross</option>
+                    <option value="anders">Anders</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="field">
+        <label class="label">Overige opmerkingen:</label>
+        <div class="control">
+            <textarea class="textarea" name="Opmerkingen" placeholder="Heeft u nog vragen of opmerkingen?"></textarea>
+        </div>
+    </div>
+        <div class="field">
+        <div class="control">
+            <label class="checkbox">
+                <input type="checkbox" name="Toestemming" required>
+                Ik geef toestemming voor de verwerking de bovenstaande gegevens door de vereniging.
+            </label>
+        </div>
+    </div>
+
+    <input type="hidden" name="subject" value="Proefles aanvraag" />
+
+    <div class="field">
+        <div class="control">
+            <button class="button is-primary" type="submit">Verstuur aanvraag</button>
+        </div>
+    </div>
+</form>
