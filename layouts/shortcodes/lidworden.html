@@ -1,71 +1,87 @@
-<form action="https://formspree.io/f/xjkveeav" method="POST">
+<form action="https://formspree.io/f/mrbqylnq" method="POST">
 
   <div class="field">
     <label class="label">Email:</label>
     <div class="control">
-      <input class="input" type="email" name="email" id-="email" placeholder="Voer uw email adres in...">
+      <input class="input" type="email" name="email" id="email" placeholder="Voer uw email adres in..." required>
     </div>
   </div>
   
   <div class="field">
     <label class="label">Voornaam:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Voornaam" id-="Voornaam" placeholder="Voer uw Voornaam in...">
+      <input class="input" type="text" name="Voornaam" id="Voornaam" placeholder="Voer uw Voornaam in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">Achternaam:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Achternaam" id-="Achternaam" placeholder="Voer uw Achternaam  in...">
+      <input class="input" type="text" name="Achternaam" id="Achternaam" placeholder="Voer uw Achternaam  in..." required>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">Geboortedatum:</label>
+    <div class="control">
+      <input class="input" type="date" name="Geboortedatum" id="Geboortedatum" required>
     </div>
   </div>
   <div class="field">
     <label class="label">Straat:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Straat" id-="Straat" placeholder="Voer uw Straatnaam in...">
+      <input class="input" type="text" name="Straat" id="Straat" placeholder="Voer uw Straatnaam in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">Huisnummer:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Huisnummer" id-="Huisnummer" placeholder="Voer uw Huisnummer in...">
+      <input class="input" type="text" name="Huisnummer" id="Huisnummer" placeholder="Voer uw Huisnummer in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">Postcode:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Postcode" id-="Postcode" placeholder="Voer uw Postcode in...">
+      <input class="input" type="text" name="Postcode" id="Postcode" placeholder="Voer uw Postcode in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">Woonplaats:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Woonplaats" id-="Woonplaats" placeholder="Voer uw Woonplaats in...">
+      <input class="input" type="text" name="Woonplaats" id="Woonplaats" placeholder="Voer uw Woonplaats in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">Telefoonnummer:</label>
     <div class="control">
-      <input class="input" type="Naam" name="Telefoonnummer" id-="telnr" placeholder="Voer uw Telefoonnummer in...">
+      <input class="input" type="tel" name="Telefoonnummer" id="telnr" placeholder="Voer uw Telefoonnummer in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label">IBAN nummer:</label>
     <div class="control">
-      <input class="input" type="Naam" name="IBAN" id-="IBAN" placeholder="Voer uw IBAN in...">
+      <input class="input" type="text" name="IBAN" id="IBAN" placeholder="Voer uw IBAN in..." required>
     </div>
   </div>
   <div class="field">
     <label class="label"> Rekening nummer ten name van:</label>
     <div class="control">
-      <input class="input" type="Naam" name="RekeningHouder" id-="RekeningHouder" placeholder="Voer de naam van de rekening houder in...">
+      <input class="input" type="text" name="RekeningHouder" id="RekeningHouder" placeholder="Voer de naam van de rekening houder in..." required>
     </div>
   </div>
 
   <div class="field">
     <div class="control">
-      <label class="label">Door op verstuur te drukken ga ik er mee akkoord dat ZWC-DTS uw gegevens verwerkt en jaarlijks via een automatisch incasso de contributie afschrijft van bovengenoemde rekeningnummer.</label>
-      <button class="button is-primary" type="submit">Verstuur</button>
+      <label class="checkbox">
+        <input type="checkbox" name="Akkoord" required>
+        Door op verstuur te drukken ga ik er mee akkoord dat ZWC-DTS mijn gegevens verwerkt en jaarlijks via een automatisch incasso de contributie afschrijft van bovengenoemde rekeningnummer.
+      </label>
+    </div>
+  </div>
+  
+  <input type="hidden" name="subject" value="Lidmaatschap aanvraag" />
+  
+  <div class="field">
+    <div class="control">
+      <button class="button is-primary" type="submit">Verstuur aanvraag</button>
     </div>
   </div>
 </form>

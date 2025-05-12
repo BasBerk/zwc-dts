@@ -4,13 +4,23 @@ sidebar: True
 sidebarlogo: logo
 include_footer: True
 ---
+
+## Word lid van ZWC-DTS of vraag een proefles aan
+Wilt u een proefles aanvragen of lid worden van Zaanlandse Wielerclub DTS? Kies een van de onderstaande opties:
+<div class="buttons is-centered mt-5">
+  <a href="/lid-worden" class="button is-primary is-medium">
+    <span>Lid worden</span>
+  </a>
+  <a href="/proefles-jeugd" class="button is-info is-medium">
+    <span>Proefles jeugd</span>
+  </a>
+  <a href="/proefles" class="button is-info is-medium">
+    <span>Proefles</span>
+  </a>
+</div>
+
+## Algemeen contact
 Wilt u contact opnemen met de Zaanlandse Wielerclub DTS? Dat kan via het onderstaande formulier. 
-Ook als u wilt deelnemen aan een proefles kunt u het contact formulier invullen met wat informatie over uzelf en de reden van uw interesse.
 Dan nemen wij zo snel mogelijk contact met u op.
-Is de renner jonger dan 18 jaar? Dan vragen wij u dit [Inschrijf formulier proeftraining jeugd](https://docs.google.com/forms/d/e/1FAIpQLSdUsuq17OQKKvkIpniUi90PbcRy88OmKD92hjBbvhG7YUslkA/viewform?c=0&w=1)
-in te vullen. 
-{{< form >}} 
 
-
-# Direct lid worden van DTS:
-{{< lidworden >}}
+{{< form >}}
