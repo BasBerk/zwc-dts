@@ -200,7 +200,7 @@ params:
         - text: Categorieën
           link: /categorie/overzicht
       column2:
-        title: "Westijden"
+        title: "Wedstrijden"
         links:
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
