@@ -43,7 +43,7 @@ params:
     # Main hero title
     title: Zaanse wielerclub DTS.
     # Hero subtitle (optional)
-    subtitle: Door trainen sterk anno 1921. ZWC-DTS is een club met
+    subtitle: Door Training Sterk anno 1921. ZWC-DTS is een club met
       een rijke historie en open voor alle niveaus van het wielrennen. Wil jij beter 
       worden, of gewoon lekker fietsen, bij DTS ben je welkom.
     # Button text
@@ -129,7 +129,7 @@ params:
     #     url: /
   section1:
     title: Zaanse wielerclub DTS
-    subtitle: Door Trainen Sterk
+    subtitle: Door Training Sterk
     tiles:
     - title: Direct inschrijven
       icon: signup
