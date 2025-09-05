@@ -21,15 +21,15 @@ als het officieus NK criterium verreden wordt.
 Naast de mooie koersen is er ook veel te doen rondom het parkoers.
 Veel bewoners nodigen vrienden uit voor een gezellige middag, 
 er wordt door de ORCA een oldtimer optocht gereden met bewoners van 
-het Thomashuis, er is een springkussen voor de kids en een pop-up wielercafé voor een hapje en drankje. Ter hoogte van de Vlietlaan kunnen de ‘kermisvierders’ terecht voor een borrel en snack. Dit jaar zelfs met feesttent met live muziek.
+het Thomashuis, er is een springkussen voor de kids en een pop-up wielercafé voor 
+een hapje en drankje. Ter hoogte van de Vlietlaan kunnen de
+‘kermisvierders’ terecht voor een borrel en snack. Ook dit jaar weer met live muziek.
 
 ## Programma voor de 52e Ronde op zaterdag 4 oktober:
 
 12.00 uur – Klasse 2
 
 15.00 uur – Belofte, Elite en Professional-B mannen (officieus NK criterium)
-
-15:45 uur – Belofte (club), Belofte (UCI), Elite (club), Prof-B (UCI) vrouwen 
 
 Tussendoor zijn er Dikke banden Races voor de jeugd t/m 13 jaar van de basisschool.
 
