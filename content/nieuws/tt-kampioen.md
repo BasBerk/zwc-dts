@@ -7,8 +7,6 @@ include_footer: True
 image: "/images/news/tt-kampioen/6.jpeg"
 
 ---
-## verslag
-
 Wat een wielerdag vandaag bij H.S.V. de Kampioen! De jeugdrenners van categorie 5, 6 en 7 verschenen aan de start van de ploegentijdrit. De spanning was groot, de fietsen glommen en de supporters stonden langs de kant te juichen.
 
 Het team van Z.W.C. D.T.S., met Wess, Finn, Jaro en Binc, reed een geweldige rit. Vanaf het eerste moment reden ze strak in formatie, gaven ze elkaar perfect aflossing en hielden ze het tempo hoog. Iedereen gaf echt alles!
