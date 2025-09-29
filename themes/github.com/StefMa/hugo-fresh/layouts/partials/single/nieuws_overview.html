@@ -11,6 +11,59 @@
     <div class="columns">
       <div class="content column is-four-fifths">
         
+        <!-- Add responsive ordering and sizing once for the whole partial -->
+        <style>
+          /* scope to news items in this partial */
+          .news-overview .news-item { margin-bottom: 1.5rem; }
+          .news-overview .news-item .columns { align-items: center; flex-wrap: wrap; }
+
+          /* Image container hides overflow so tall images don't overflow neighboring content */
+          .news-overview .news-item .image { overflow: hidden; border-radius: 4px; }
+
+          /* Use intrinsic height and limit max-height to avoid overlap; object-fit keeps aspect */
+          .news-overview .news-item .image img {
+            width: 100%;
+            height: auto;
+            max-height: 280px;
+            object-fit: cover;
+            display: block;
+          }
+
+          /* Mobile: stack and put image after content */
+          @media (max-width: 768px) {
+            .news-overview .news-item .columns { flex-direction: column; }
+            .news-overview .news-item .news-image { order: 2; width: 100% !important; }
+            .news-overview .news-item .news-content { order: 1; width: 100% !important; }
+            /* reduce image max-height on narrow screens */
+            .news-overview .news-item .image img { max-height: 200px; }
+          }
+
+          /* Desktop (tablet+): ensure normal order */
+          @media (min-width: 769px) {
+            .news-overview .news-item .news-image { order: 1; }
+            .news-overview .news-item .news-content { order: 2; }
+          }
+
+          /* Laptop / large screens: make image a bit bigger and reduce spacing */
+          @media (min-width: 1024px) {
+            .news-overview .news-item { margin-bottom: 1rem; }
+            /* give image more room (~35%) and content ~65% */
+            .news-overview .news-item .news-image {
+              width: 35% !important;
+              flex: 0 0 35% !important;
+              max-width: 35% !important;
+            }
+            .news-overview .news-item .news-content {
+              width: 65% !important;
+              flex: 0 0 65% !important;
+              max-width: 65% !important;
+              padding-left: 1rem;
+            }
+            /* allow taller images on larger screens */
+            .news-overview .news-item .image img { max-height: 340px; }
+          }
+        </style>
+
         <div class="news-overview">
             {{ range where .Site.RegularPages "Section" "nieuws" }}
             {{ if ne .File.Path "nieuws/overview.md" }}
@@ -19,16 +72,27 @@
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <span class="has-text-weight-light is-size-7">{{ .Date.Format "02-01-2006" }}</span>
               </h3>
+
+              {{/* responsive two-column layout; image styling handled by the CSS above */}}
+              <div class="columns is-vcentered is-mobile">
                 {{ if .Params.image }}
-                <a href="{{ .Permalink }}">
-                  <figure class="media-left mt-0 mb-0">
-                      <p class="image is-128x128">
-                        <img class="" src="{{ .Params.image }}" alt="{{ .Title }}">
-                    </p>
-                  </figure>
-                </a>
+                <div class="column is-3-desktop is-4-tablet is-12-mobile news-image">
+                  <a href="{{ .Permalink }}">
+                    <figure class="image">
+                      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                    </figure>
+                  </a>
+                </div>
+                <div class="column news-content">
+                  <p>{{ .Summary }} <a href="{{ .Permalink }}">Lees verder</a></p>
+                </div>
+                {{ else }}
+                <div class="column news-content">
+                  <p>{{ .Summary }} <a href="{{ .Permalink }}">Lees verder</a></p>
+                </div>
                 {{ end }}
-                <p>{{ .Summary }}</p>
+              </div>
+
             </div>
             {{ end }}
             {{ end }}
