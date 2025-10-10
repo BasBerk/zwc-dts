@@ -93,9 +93,16 @@ params:
   - title: Nieuws
     url: /nieuws/overview
   - title: Veilig Sportbeleid
+  - title: Over DTS  
+    url: /
+    sublinks:
+    - title: Dagelijks bestuur
+      url: /over-dts/over-dts
+    - title: Contriburie
+      url: /over-dts/contributie
+
     url: /veiligsport
-  - title: Over DTS
-    url: /over-dts
+
   - title: Trainingen
     url: /trainingen
   - title: lid worden
@@ -146,20 +153,20 @@ params:
       text: Lees het laaste nieuws uit de club
       url: /nieuws/overview/
       buttonText: Lees meer
-#  section2:
-    # title: Trainen bij DTS doe je.
-    # subtitle: Omdat jij beter wilt worden, en
-    # features:
-    # - title: Een wedstrijdsclub is
-    #   text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
-    #   # Icon (from static/images/illustrations/icons/___.svg)
-    #   icon: laptop-globe
-    # - title: Vele profs ging je voor
-    #   text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
-    #   icon: plug-cloud
-    # - title: Veldrijden
-    #   text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
-    #   icon: mobile-feed
+  # section2:
+  #     title: Trainen bij DTS doe je.
+  #     subtitle: Omdat jij beter wilt worden, en
+  #     features:
+  #     - title: Een wedstrijdsclub is
+  #       text: Bij DTS trainen wij je voor wedstrijden, wordt jij de nieuwe Nederlands kampioen? 
+  #       # Icon (from static/images/illustrations/icons/___.svg)
+  #       icon: laptop-globe
+  #     - title: Vele profs ging je voor
+  #       text: Nikki Terptra, Ceel Bol, Joeri Havik, Ramon Sinkeldam, en Julius van den Berg, zomaar een greep van renners die gestart zijn bij DTS
+  #       icon: plug-cloud
+  #     - title: Veldrijden
+  #       text: De wintersportief doorkomen, vanaf oktober kun jij je engerie kwijt op het cross parcours
+  #       icon: mobile-feed
 
   section3:
     title: Facebook nieuws
