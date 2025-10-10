@@ -28,8 +28,7 @@ Wil je je lidmaatschap beëindigen? Dit kan door voor 1 november een mail te
 sturen naar het secretariaat. Na deze datum loop je door naar het volgende 
 seizoen.
 
-[Opzeggen contributie](mailto:secretariaat@zwc-dts.nl?subject=Opzeggen%20contributie)
-
+[Opzeggen contributie](mailto:secretariaat@zwc-dts.nl?subject=Opzeggen%20contributie) secretariaat@zwc-dts.nl
 ## Vragen?
 
 Heb je vragen over de contributie of je lidmaatschap? Neem dan contact op via 
