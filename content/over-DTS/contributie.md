@@ -14,7 +14,7 @@ kunnen genieten van onze sport en de begeleiding die we bieden.
 De jaarlijkse contributie is afhankelijk van je leeftijdscategorie:
 
 - Jeugd (tot en met categorie 7): €63 per jaar
-- Overig (vanaf nieuwelingen): €73 per jaar
+- Overig (vanaf nieuwelingen): €75 per jaar
 
 ### Instappen na 1 augustus
 
@@ -24,7 +24,7 @@ later in het seizoen nog in te stappen.
 
 ## Opzeggen
 
-Wil je je lidmaatschap beëindigen? Dit kan door voor 1 november een mail te 
+Wil je je lidmaatschap beëindigen? Dit kan door voor 30 november een mail te 
 sturen naar het secretariaat. Na deze datum loop je door naar het volgende 
 seizoen.
 
