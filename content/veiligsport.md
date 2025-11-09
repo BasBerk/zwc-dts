@@ -65,7 +65,7 @@ Helaas kan een sporter wel eens in een situatie terechtkomen die als (seksueel) 
 
 Binnen ZWC DTS zijn hiervoor twee Vertrouwenspersonen beschikbaar:
 
-Nol van der Linden (telefoon 06-53757453- en nvln@planet.nlemail Nol is 15 jaar Jeugd Wielrentrainer geweest, niet alleen binnen  DTS maar ook binnen de KNWU.
+Nol van der Linden (telefoon 06-53757453- en nolvanderlinden@kpnmail.nl. Nol is 15 jaar Jeugd Wielrentrainer geweest, niet alleen binnen  DTS maar ook binnen de KNWU.
 Jolanda Krijt telefoon 06-46597347- en email j.krijt@i-dt.nl.
 
 Daarnaast is binnen de KNWU is een Vertrouwenscontactpersoon aangesteld. Je kan hierop gratis een beroep doen. De KNWU-vertrouwenscontactpersoon is Mirjam Tuithof, telefoon: 030–7513324, 06–3092 1013 en email mirjam.tuithof@knwu.nl.
