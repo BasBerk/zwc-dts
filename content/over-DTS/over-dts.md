@@ -10,7 +10,7 @@ include_footer: True
 | Functie           | Naam                  | Mailadres                 |
 | ----------------- | --------------------- | ------------------------- |
 | Voorzitter        | Jan Dick den Das      | jddendas@gmail.com        |
-| Secretaris        | Roel van Wijk         | secretariaat@zwc-dts.nl   |
+| Secretaris        | Bas Berkhout         | secretariaat@zwc-dts.nl   |
 | 1e Penningmeester | Ger Pieter van Seijst | gpvanseijst@gmail.com     |
 | 2e Penningmeester | Dennis Keijzer        | denniskeijzer66@gmail.com |
 

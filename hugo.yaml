@@ -88,8 +88,7 @@ params:
       url: /categorie/sportklasse
     - title: Elite/Beloften
       url: /categorie/elite_belofte
-  - title: 
-    url: /
+
   - title: Nieuws
     url: /nieuws/overview
   - title: Veilig Sportbeleid
@@ -100,7 +99,8 @@ params:
       url: /over-dts/over-dts
     - title: Contributie
       url: /over-dts/contributie
-
+    - title: Contact
+      url: /contact
     url: /veiligsport
 
   - title: Trainingen
