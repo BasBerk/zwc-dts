@@ -27,3 +27,5 @@ Meer informatie over ons programma voor de nieuwelingen:
 # Sportklasse
 
 Voor iedereen boven de 18+ hebben wij als DTS het volgende te bieden: [Sportklasse](/categorie/sportklasse)
+
+{{< cta >}}

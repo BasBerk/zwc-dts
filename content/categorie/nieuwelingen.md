@@ -60,3 +60,5 @@ Heb je interesse om te beginnen met wielrennen of ben je al een fanatieke
 fietser die zich verder wilt ontwikkelen? Kom eens langs bij onze trainingen 
 of neem contact op via [contact]({{< ref "../contact.md" >}}) . De toekomst van wielrennen begint 
 hier, en we staan te trappelen om jou te verwelkomen als een van onze nieuwelingen!
+
+{{< cta >}}
