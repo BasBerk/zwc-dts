@@ -37,9 +37,16 @@ over de starttijden en hoe je je kunt inschrijven.
 Zorg dat je minimaal 15 minuten voor aanvang van elke training of wedstrijd aanwezig bent.
 Training annuleringen of wijzigingen worden gecommuniceerd via WhatsApp
 
-## Contact
-Heb je vragen over het trainings- en wedstrijdschema? Neem contact op met onze 
-trainers en wedstrijdcoördinatoren:
-
-- Rick Krijt - Email: krijtrick@gmail.com 
-- Peter van Niekerk - Email: katinkapeter@hotmail.nl 
+## Word lid van ZWC-DTS of vraag een proefles aan
+Wilt u een proefles aanvragen of lid worden van Zaanlandse Wielerclub DTS? Kies een van de onderstaande opties:
+<div class="buttons is-centered mt-5">
+  <a href="/lid-worden" class="button is-primary is-medium">
+    <span>Lid worden</span>
+  </a>
+  <a href="/proefles-jeugd" class="button is-info is-medium">
+    <span>Proefles jeugd</span>
+  </a>
+  <a href="/proefles" class="button is-info is-medium">
+    <span>Proefles</span>
+  </a>
+</div>

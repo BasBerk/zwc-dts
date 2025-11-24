@@ -89,3 +89,5 @@ Of je nu wilt beginnen met wielrennen of je wielerambities naar een hoger niveau
 wilt tillen, ZWC-DTS biedt een uitnodigende en ondersteunende 
 omgeving voor iedere jonge renner. Neem contact met ons op via [contact]({{< ref "../contact.md" >}}) 
 voor meer informatie over onze jeugdprogramma's!
+
+{{< cta >}}

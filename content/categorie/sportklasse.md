@@ -71,7 +71,7 @@ op via [contact]({{< ref "../contact.md" >}}) of bezoek onze vereniging tijdens
 een trainingsavond voor meer informatie. Kom en laat je wielerhart sneller 
 kloppen in de sportklasse!
 
-
+{{< cta >}}
 
 
 

@@ -6,7 +6,7 @@ include_footer: True
 ---
 
 
-Vul het onderstaande formulier in om lid te worden van ZWC-DTS. Na verzending nemen wij zo snel mogelijk contact met u op om uw aanmelding te bevestigen.
+Wat leuk dat je lid wilt worden van ZWC-DTS! Vul onderstaand formulier in en we nemen zo snel mogelijk contact met je op om je aanmelding te bevestigen.
 
 {{< lidworden >}}
 

@@ -88,6 +88,8 @@ params:
       url: /categorie/sportklasse
     - title: Elite/Beloften
       url: /categorie/elite_belofte
+    - title: Trainingen
+      url: /trainingen
 
   - title: Nieuws
     url: /nieuws/overview
@@ -102,11 +104,8 @@ params:
     - title: Contact
       url: /contact
     url: /veiligsport
-
-  - title: Trainingen
-    url: /trainingen
   - title: lid worden
-    url: /contact
+    url: /lid-worden
     button: true
   sidebar:
      logo: logo

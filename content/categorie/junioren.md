@@ -53,3 +53,5 @@ via [contact]({{< ref "../contact.md" >}}) of kom langs tijdens onze trainingsti
 
 Jouw wielercarrière als junior staat op het punt van beginnen, 
 en wij staan klaar om je te verwelkomen en samen aan de weg naar succes te fietsen!
+
+{{< cta >}}
