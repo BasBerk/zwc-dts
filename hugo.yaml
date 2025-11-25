@@ -94,6 +94,7 @@ params:
   - title: Nieuws
     url: /nieuws/overview
   - title: Veilig Sportbeleid
+    url: /veiligsport
   - title: Over DTS  
     url: /
     sublinks:
