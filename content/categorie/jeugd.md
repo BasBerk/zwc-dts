@@ -19,15 +19,9 @@ ieder jaar een trainingskamp georganiseerd.
 Hieronder vindt u een overzicht 
 van de verschillende jeugdcategorieën die onze vereniging ondersteunt.
 
-## Categorieën in het Jeugdwielrennen
-### Starters (5 - 7 jaar)
-De allerkleinsten kunnen bij ons kennismaken met de wielersport. Met speelse 
-trainingen leren zij balans te houden op de fiets en krijgen zij het plezier in
-fietsen met de paplepel ingegoten.
-
 ### Categorie 1 (8 jaar)
-Zodra kinderen de leeftijd van 8 jaar bereiken, start hun eerste officiële 
-competeitiejaar. De focus ligt op spelenderwijs leren en de basis van het fietsen.
+
+Vanaf 8 jaar kun je starten met wielrennen en begint je eerste officiële competitiejaar. De focus ligt op spelenderwijs leren en de fietsbasis.​​​​​​​​​​​​​​​​
 
 ### Categorie 2 (9 jaar)
 Met een jaar ervaring op zak, beginnen de renners aan categorie 2. We bouwen l
