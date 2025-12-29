@@ -104,7 +104,6 @@ params:
       url: /over-dts/contributie
     - title: Contact
       url: /contact
-    url: /veiligsport
   - title: lid worden
     url: /lid-worden
     button: true
