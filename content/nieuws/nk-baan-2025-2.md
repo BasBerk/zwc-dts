@@ -4,7 +4,7 @@ date: 2025-12-29
 layout: nieuws
 sidebar: false
 include_footer: True
-image: "/images/news/nk-baan-2025/8.jpg"
+image: "/images/news/nk-baan-2025/8.jpeg"
 
 ---
 Het NK Baanwielrennen leverde nog meer mooie resultaten op voor de junioren van Zaanlandse Wielerclub DTS.
