@@ -1,6 +1,6 @@
 ---
-title: "Voorjaarscompetitie Groot Amsterdam 2025"
-date: 2025-02-11
+title: "Voorjaarscompetitie Groot Amsterdam 2026"
+date: 2026-01-15
 layout: nieuws
 image: "/images/news/voorjaarscompetitie/vjc-2026-1.jpg"
 sidebar: true
