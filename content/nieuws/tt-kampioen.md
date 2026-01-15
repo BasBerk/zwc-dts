@@ -15,19 +15,19 @@ En dat harde werk werd beloond: de jongens finishten knap als tweede! 🥈 Een t
 
 ## Foto's van de dag
 
-![](/images/news/tt-kampioen/1.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/1.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 1" >}}
 
-![](/images/news/tt-kampioen/2.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/2.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 2" >}}
 
-![](/images/news/tt-kampioen/3.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/3.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 3" >}}
 
-![](/images/news/tt-kampioen/4.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/4.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 4" >}}
 
-![](/images/news/tt-kampioen/5.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/5.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 5" >}}
 
-![](/images/news/tt-kampioen/6.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/6.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 6" >}}
 
-![](/images/news/tt-kampioen/7.jpeg)
+{{< newsimage src="/images/news/tt-kampioen/7.jpeg" alt="Ploegentijdrit H.S.V. de Kampioen - Foto 7" >}}
 
 ## Video impressie
 

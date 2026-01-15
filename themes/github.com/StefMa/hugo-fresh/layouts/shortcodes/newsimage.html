@@ -1,0 +1,14 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+
+<figure class="news-image-container">
+  <img src="{{ $src }}" 
+       alt="{{ $alt }}" 
+       class="news-image-thumb clickable-image" 
+       data-fullsize="{{ $src }}"
+       loading="lazy">
+  {{- if $caption -}}
+  <figcaption>{{ $caption }}</figcaption>
+  {{- end -}}
+</figure>

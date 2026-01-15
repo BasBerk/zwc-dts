@@ -3,3 +3,76 @@
     max-height: 250px;
     object-fit: contain;
 }
+
+// News image container and clickable images
+.news-image-container {
+    margin: 1.5rem 0;
+    text-align: center;
+
+    img.news-image-thumb {
+        max-width: 600px;
+        width: 100%;
+        height: auto;
+        max-height: 400px;
+        object-fit: contain;
+        cursor: pointer;
+        transition: opacity 0.3s ease, transform 0.3s ease;
+        border-radius: 6px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+
+        &:hover {
+            opacity: 0.9;
+            transform: scale(1.02);
+        }
+    }
+
+    figcaption {
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+        color: #666;
+        font-style: italic;
+    }
+}
+
+// Header image styling in news single pages
+.content img:first-of-type,
+.nieuws_single img:first-of-type {
+    max-height: 400px;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+}
+
+// Image modal styling
+#imageModal {
+    .modal-content {
+        max-width: 90vw;
+        max-height: 90vh;
+        
+        .image {
+            margin: 0;
+            
+            img {
+                max-width: 100%;
+                max-height: 90vh;
+                width: auto;
+                height: auto;
+                object-fit: contain;
+            }
+        }
+    }
+}
+
+// Responsive adjustments
+@media screen and (max-width: 768px) {
+    .news-image-container img.news-image-thumb {
+        max-width: 100%;
+        max-height: 300px;
+    }
+
+    .content img:first-of-type,
+    .nieuws_single img:first-of-type {
+        max-height: 250px;
+    }
+}

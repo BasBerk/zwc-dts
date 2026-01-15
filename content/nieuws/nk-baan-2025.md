@@ -19,11 +19,11 @@ Namens de club feliciteren we Kaj en Pieter van harte met deze mooie prestaties!
 
 ## Foto's van de dag
 
-![](/images/news/nk-baan-2025/1.jpeg)
+{{< newsimage src="/images/news/nk-baan-2025/1.jpeg" alt="NK Baanwielrennen 2025 - Foto 1" >}}
 
-![](/images/news/nk-baan-2025/2.jpeg)
+{{< newsimage src="/images/news/nk-baan-2025/2.jpeg" alt="NK Baanwielrennen 2025 - Foto 2" >}}
 
-![](/images/news/nk-baan-2025/3.jpg)
+{{< newsimage src="/images/news/nk-baan-2025/3.jpg" alt="NK Baanwielrennen 2025 - Foto 3" >}}
 
-![](/images/news/nk-baan-2025/4.jpg)
+{{< newsimage src="/images/news/nk-baan-2025/4.jpg" alt="NK Baanwielrennen 2025 - Foto 4" >}}
 
