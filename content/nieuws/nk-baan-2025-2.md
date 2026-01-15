@@ -19,7 +19,7 @@ Namens de club feliciteren we Daan, Pieter, Sanna-Linnéa en Yin van harte met d
 
 ## Foto's van de dag
 
-![](/images/news/nk-baan-2025/6.jpeg)
+{{< newsimage src="/images/news/nk-baan-2025/6.jpeg" alt="NK Baanwielrennen 2025 - Foto 6" >}}
 
-![](/images/news/nk-baan-2025/7.jpeg)
+{{< newsimage src="/images/news/nk-baan-2025/7.jpeg" alt="NK Baanwielrennen 2025 - Foto 7" >}}
 

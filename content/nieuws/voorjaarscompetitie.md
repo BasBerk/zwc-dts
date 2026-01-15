@@ -23,4 +23,4 @@ Mis deze kans niet om deel te nemen aan deze vernieuwde competitie. Het belooft 
 
 Wilt u meer informatie of heeft u vragen? Neem dan contact op met het bestuur of kijk op knwu.nl voor de volledige details en inschrijving.
 
-![voorjaarscompetitie](/images/news/voorjaarscompetitie.jpeg)
+{{< newsimage src="/images/news/voorjaarscompetitie.jpeg" alt="Voorjaarscompetitie Groot Amsterdam 2025" caption="Voorjaarscompetitie Groot Amsterdam 2025" >}}

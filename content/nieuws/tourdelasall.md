@@ -27,8 +27,9 @@ Bij de start wist Ian goed naar voren te rijden en Sven en Rick zaten ook sterk 
 De omloop was totaal 55 km met een rondje van iets meer dan 10 km per ronde. 
 Halverwege de tweede ronde kreeg Rick helaas pech doordat zijn zadel verzakte en moet hierdoor even aan de kant staan om dit euvel te verhelpen. 
 Hij redde het niet om meer terug te rijden naar het peloton. Bram zat door een breukje in de tweede waaier achter het peloton en Sven en Ian zaten nog sterk in de voorste gelederen. Sven(17e) en Ian (44e) eindigen sterk in de eerste groep. Bram(58e) eindigt op 1 minuut van de eerste groep. Rick(72) eindigt op 8 minuten van het peloton. 
-![Sven](/images/news/tourdelasall2025/sven_donderdag.jpeg)
-![Bram](/images/news/tourdelasall2025/bram_donderdag.jpeg)
+{{< newsimage src="/images/news/tourdelasall2025/sven_donderdag.jpeg" alt="Sven - Donderdag" caption="Sven op Texel" >}}
+
+{{< newsimage src="/images/news/tourdelasall2025/bram_donderdag.jpeg" alt="Bram - Donderdag" caption="Bram op Texel" >}}
 
 Dag 2 Vrijdag 13 juni Den Helder zuid omloop:
 ---------------------------------------------
@@ -73,4 +74,4 @@ Mogen we vandaag dan misschien toch echt een keer vooraan starten? De laatste da
 
 Al met al, een zeer mooi weekend, waarbij we heerlijk hebben gekoerst, betere en minder goede momenten hebben gekend maar vooral een hele mooie ervaring hebben beleefd.  
 
-![BramRick](/images/news/tourdelasall2025/Bram_rick_zondag.jpeg)
+{{< newsimage src="/images/news/tourdelasall2025/Bram_rick_zondag.jpeg" alt="Bram en Rick - Zondag" caption="Bram en Rick op zondag" >}}

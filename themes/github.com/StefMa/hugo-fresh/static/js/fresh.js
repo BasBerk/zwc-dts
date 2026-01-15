@@ -60,7 +60,9 @@ $(document).ready(function(){
     }
 
     //Init feather icons
-    feather.replace();
+    if (typeof feather !== 'undefined') {
+        feather.replace();
+    }
 
     //reveal elements on scroll so animations trigger the right way
     var $window           = $(window),
@@ -140,4 +142,53 @@ $(document).ready(function(){
             }
         }
     });
+
+    // Image Modal functionality
+    console.log('Initializing image modal...');
+    
+    // Create modal structure if it doesn't exist
+    if (!$('#imageModal').length) {
+        $('body').append(`
+            <div id="imageModal" class="modal">
+                <div class="modal-background"></div>
+                <div class="modal-content">
+                    <p class="image">
+                        <img src="" alt="" id="modalImage">
+                    </p>
+                </div>
+                <button class="modal-close is-large" aria-label="close"></button>
+            </div>
+        `);
+        console.log('Image modal created');
+    }
+
+    // Click handler for clickable images
+    $(document).on('click', '.clickable-image', function(e) {
+        e.preventDefault();
+        console.log('Image clicked!', this);
+        var imgSrc = $(this).attr('data-fullsize') || $(this).attr('src');
+        var imgAlt = $(this).attr('alt');
+        console.log('Opening image:', imgSrc);
+        $('#modalImage').attr('src', imgSrc).attr('alt', imgAlt);
+        $('#imageModal').addClass('is-active');
+        $('html').addClass('is-clipped');
+    });
+
+    // Close modal handlers
+    $(document).on('click', '#imageModal .modal-background, #imageModal .modal-close', function() {
+        console.log('Closing modal');
+        $('#imageModal').removeClass('is-active');
+        $('html').removeClass('is-clipped');
+    });
+
+    // ESC key to close modal
+    $(document).on('keydown', function(e) {
+        if (e.key === 'Escape' && $('#imageModal').hasClass('is-active')) {
+            console.log('Closing modal with ESC');
+            $('#imageModal').removeClass('is-active');
+            $('html').removeClass('is-clipped');
+        }
+    });
+    
+    console.log('Image modal initialized. Clickable images found:', $('.clickable-image').length);
 })
