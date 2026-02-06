@@ -4,7 +4,6 @@ sidebar: True
 sidebarlogo: logo
 include_footer: True
 ---
-Veilig sportklimaat
 
 ZWC DTS  wil staan voor een veilig sportklimaat voor al haar leden. Wij volgen daarom de richtlijnen die door het NOC*NSF zijn opgesteld.
 
@@ -16,13 +15,13 @@ Een van de maatregelen die wordt aanbevolen door NOC*NSF en de KNVB ter preventi
 Wat is een Verklaring Omtrent het Gedrag?
 Een VOG is een verklaring van het ministerie van Veiligheid en Justitie waaruit blijkt dat het gedrag uit het verleden van iemand geen bezwaar oplevert voor het gevraagde doel, bijvoorbeeld training geven of een team begeleiden bij een sportvereniging.
 
-Besluit Dagelijks Bestuur over VOG
+## Besluit Dagelijks Bestuur over VOG
 
 Het Dagelijks Bestuur wil de veiligheid van haar leden zeer serieus nemen en heeft daarom besloten om van zowel de leden als niet-leden, die bij ZWC DTS werken met minderjarigen en/of met mensen met een verstandelijke beperking, een VOG te verlangen.
 
 In het voorjaar van 2017 is het VOG project binnen DTS opgestart. De VOG is middels een bestuursbesluit verplicht gesteld voor alle trainers, begeleiders, commissieleden, bestuursleden, verzorgers etc. etc. Kortom voor alle vrijwilligers met een functie binnen DTS
 
-Geen wantrouwen
+## Geen wantrouwen
 Het invoeren van een verplicht VOG is geen kwestie van wantrouwen, maar een extra signaal dat we een veilig sportklimaat voor minderjarigen en kwetsbare groepen bij ZWC DTS zeer ter harte nemen.
 
 DigiD nodig voor aanvraag VOG
@@ -31,7 +30,7 @@ Om elektronisch een VOG aan te vragen moet je beschikken over een DigiD. Een Dig
 VOG gratis
 Voor de vrijwilligers van ZWC DTS is het verkrijgen van een VOG gratis.
 
-Verkrijgen VOG
+## Verkrijgen VOG
 
 ZWC DTS vraagt, m.b.v. de bij haar bekende NAW- en persoonlijke gegevens van de vrijwilliger een VOG verklaring aan. De vrijwilliger ontvangt een email van Justis, welke per DigiD zal moeten worden bevestigd.
 
@@ -41,10 +40,10 @@ Justis is de screeningsdienst van het ministerie van Veiligheid en Justitie. Jus
 Origineel VOG afgeven
 Binnen 2 tot 4 weken zal je, na goedkeuring van Justis de VOG per post of digitaalontvangen. Na ontvangst maak je een kopie voor je zelf en stuurt of geeft vervolgens het originele document aan de secretaris van het dagelijks bestuur: Bas Berkhout.
 
-Archiveren VOG
+### Archiveren VOG
 ZWC DTS archiveert het VOG-document. Een gekopieerde of gescande VOG geldt niet als officieel document.
 
-Geldigheidsduur VOG
+### Geldigheidsduur VOG
 De VOG is een momentopname en kent geen wettelijke geldigheidsduur. Bij ZWC DTS is besloten dat betrokkenen 1x per 3 jaar een nieuwe VOG dienen te overleggen en wel vóór 1 februari van het betreffende kalenderjaar.
 
 Consequenties geen VOG
@@ -58,7 +57,7 @@ Meer informatie is te vinden op de websites
 http://www.nocnsf.nl/vog
 https://www.gratisvog.nl
 
-Vragen
+## Vragen
 Als je nog vragen hebt, dan kan je die doorgeven aan secretariaat@zwc-dts.nl
 
 Helaas kan een sporter wel eens in een situatie terechtkomen die als (seksueel) intimiderend kan worden ervaren. Dit komt helaas meer voor dan dat men wilt of verwacht. Als de sporter er mee te maken krijgt, is het belangrijk te weten waar je terecht kunt voor hulp, ondersteuning of simpelweg een advies of luisterend oor. Blijf er niet mee rondlopen! Signaleer het en praat erover met iemand in wie je vertrouwen hebt.
@@ -72,6 +71,7 @@ Daarnaast is binnen de KNWU is een Vertrouwenscontactpersoon aangesteld. Je kan 
 
 De Vertrouwenspersoon zal naar je verhaal luisteren en helpen te zoeken naar mogelijkheden om de situatie op te lossen. Informatie zal strikt vertrouwelijk behandeld worden. De Vertrouwenspersoon kan tevens  helpen om een klacht in te dienen bij het bestuur van ZWC DTS, sportbond of politie. Maar gewoon even praten kan natuurlijk ook.
 
+## Gedragregels 
 Tot slot vind je hieronder de elf gedragsregels, welke ZWC- DTS volgt. Deze gedragsregels zijn door het NOC*NSF opgesteld, waarmee wij de richtlijnen die door het NOC*NSF onderschrijven.
 
 * De begeleider moet zorgen voor een omgeving en een sfeer waarbinnen de sporter zich veilig voelt.
