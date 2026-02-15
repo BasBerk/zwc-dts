@@ -1,5 +1,5 @@
 ---
-title: "DTS Instapkoer 2025: Leer koersen op vrijdagavond!"
+title: "DTS Instapkoers 2025: Leer koersen op vrijdagavond!"
 date: 2025-04-03
 layout: nieuws
 sidebar: true
@@ -11,7 +11,7 @@ image: "/images/news/instapkoers2025.jpg"
 
 Met trots presenteren we de DTS Instapkoers 2025, het perfecte instapprogramma voor beginnende wielrenners die willen leren koersen! Vanaf 18 april 2025 organiseren we elke vrijdagavond om 19:00 uur laagdrempelige koerssessies op ons parcours bij Sportpark Kalverhoek.
 
-De DTS Instapkoer is speciaal ontwikkeld voor wielrenners zonder wedstrijdervaring die de eerste stappen willen zetten in het competitief wielrennen. Het unieke concept maakt het voor iedereen toegankelijk: geen licentie nodig, geen ingewikkelde inschrijfprocedures, gewoon komen en meedoen!
+De DTS Instapkoers is speciaal ontwikkeld voor wielrenners zonder wedstrijdervaring die de eerste stappen willen zetten in het competitief wielrennen. Het unieke concept maakt het voor iedereen toegankelijk: geen licentie nodig, geen ingewikkelde inschrijfprocedures, gewoon komen en meedoen!
 
 ## Het concept
 
@@ -28,4 +28,4 @@ Wil je meer informatie over de DTS Instapkoers 2025? Bezoek dan onze [speciale i
 
 ---
 
-*De DTS Instapkoer 2025 wordt mede mogelijk gemaakt door onze sponsors: VIRO, ARMADA Mobility, Van Assema BV Schilders, Bakker Fietsen, KREMERS Hypotheken, Poké Perfect, Kauffman Van Seijst, Constructiebedrijf TENTIJ BV en FYSIO Vitalissimo.*
+*De DTS Instapkoers 2025 wordt mede mogelijk gemaakt door onze sponsors: VIRO, ARMADA Mobility, Van Assema BV Schilders, Bakker Fietsen, KREMERS Hypotheken, Poké Perfect, Kauffman Van Seijst, Constructiebedrijf TENTIJ BV en FYSIO Vitalissimo.*

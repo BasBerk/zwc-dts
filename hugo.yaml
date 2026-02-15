@@ -93,6 +93,8 @@ params:
 
   - title: Nieuws
     url: /nieuws/overview
+  - title: Kalender
+    url: /kalender
   - title: Veilig Sportbeleid
     url: /veiligsport
   - title: Over DTS  
