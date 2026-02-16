@@ -1,0 +1,55 @@
+{{- $day := .Get "day" -}}
+{{- $race := .Get "race" -}}
+{{- $start_time := .Get "start_time" -}}
+{{- $description := .Get "description" -}}
+{{- $icon := .Get "icon" | default "calendar" -}}
+
+<div class="card mb-5">
+  <div class="card-content">
+    <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <span class="icon is-large has-text-primary">
+            <i class="fas fa-{{$icon}} fa-2x"></i>
+          </span>
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">{{$race}}</p>
+        <p class="subtitle is-6">{{$day}}</p>
+      </div>
+    </div>
+    
+    <div class="content">
+      <p class="has-text-weight-bold mb-2">{{$start_time}}</p>
+      <p>{{$description}}</p>
+    </div>
+    
+    <div class="buttons">
+      <button class="button is-link is-small" onclick="scrollToSection('{{lower $race}}')">
+        <span class="icon is-small">
+          <i class="fas fa-info-circle"></i>
+        </span>
+        <span>Meer details</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+function scrollToSection(section) {
+  const element = document.getElementById(section.replace(/\s+/g, '-').toLowerCase());
+  if (element) {
+    element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } else {
+    // Fallback: find section by heading text
+    const headings = document.querySelectorAll('h2, h3');
+    for (let heading of headings) {
+      if (heading.textContent.toLowerCase().includes(section)) {
+        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        break;
+      }
+    }
+  }
+}
+</script>

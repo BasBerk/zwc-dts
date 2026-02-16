@@ -1,0 +1,15 @@
+{{- $title := .Get "title" | default "Tijdschema" -}}
+{{- $items := .Inner | safeHTML -}}
+
+<div class="box">
+  <h4 class="title is-5 has-text-centered mb-4">
+    <span class="icon">
+      <i class="fas fa-clock"></i>
+    </span>
+    {{$title}}
+  </h4>
+  
+  <div class="content">
+    {{$items}}
+  </div>
+</div>
