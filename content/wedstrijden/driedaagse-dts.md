@@ -16,6 +16,12 @@ description: "Drie wedstrijden 1 klassement"
       </span>
       <span>Inschrijven - €15,00</span>
     </a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeq7XgHPPYuu8pAY5w2ll8Glp5O13OjOJD9go9CeMNpuvKLtQ/viewform" class="button is-primary is-large" target="_blank">
+      <span class="icon">
+        <i class="fa fa-clock-o"></i>
+      </span>
+      <span>Voorspel je tijd</span>
+    </a>
   </div>
   <p class="is-size-6 has-text-grey-dark">
     <strong>Categorieën:</strong> Klasse 1/2, Klasse 3, Dames
@@ -49,7 +55,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
       <div class="card-content">
         <h4 class="title is-4 has-text-danger">Tijdrit</h4>
         <p class="subtitle is-6 mb-3">19:00 uur (alle klassen)</p>
-        <p class="has-text-grey-dark">Start je weekend met een krachtige individuele tijdrit tegen de klok in.</p>
+        <p class="has-text-grey-dark">Start je weekend met een individuele tijdrit tegen de klok op het parcours. Voorspel je snelste rondetijd voor extra punten. </p>
       </div>
     </div>
   </div>
@@ -111,31 +117,13 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 - **Verboden:** Draften/slipstreamen
 
 ### Puntenverdeling
-<div class="table-container">
-  <table class="table is-striped is-fullwidth">
-    <thead>
-      <tr>
-        <th>Plaats</th>
-        <th>Punten</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>1e plaats</td><td>60 punten</td></tr>
-      <tr><td>2e plaats</td><td>58 punten</td></tr>
-      <tr><td>3e plaats</td><td>56 punten</td></tr>
-      <tr><td>4e plaats</td><td>54 punten</td></tr>
-      <tr><td>5e plaats</td><td>52 punten</td></tr>
-      <tr><td>6e plaats</td><td>50 punten</td></tr>
-      <tr><td>7e-16e</td><td>aflopend tot 30 punten</td></tr>
-      <tr><td>17e en lager</td><td>30 punten</td></tr>
-    </tbody>
-  </table>
-</div>
+Binnenkort meer informatie
 
 **Bonuspunten:**
-- Snelste ronde: TBD punten (per klasse)
-- Beste voorspelling rondetijd: TBD punten
-- Meest consistente rijder: TBD punten
+Er zijn extra punten te verdienen:
+- Voor de snelste ronde in jouw klasse
+- Beste voorspelling rondetijd (via website)
+- Meest consistente rijder.
 
 ---
 
@@ -146,15 +134,14 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 - Klasse 1/2: 11:30 uur
 
 ### Wedstrijdverloop
-- **Duur:** Klasse 3: 60 minuten | Klasse 1/2: 75 minuten
-- **Richting:** met de klok mee
-- **Fiets:** Normale racefiets verplicht
+**Duur:** 
 
-### Raceverloop
+- Klasse 1/2 75 minuten 
+- Klasse 3: 60 minuten 
 
 **Eerste 40 minuten: Reguliere koers**
-- Op ronde gezet worden: 0 punten en uit koers
-- Iemand op ronde zetten: **+25 punten** per gelapte renner
+- Op ronde gezet worden: 0 punten en uit koers na 40 minuten
+- Iemand op ronde zetten: **+25 punten**
 
 **Na 40 minuten: Afvalrondes**
 - Aantal afvallers per ronde: TBD (2/3/4/5 renners)
@@ -164,7 +151,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 **Finale:** Laatste 5 renners sprinten 2 rondes voor einduitslag
 
 ### Punten Top 5
-<div class="table-container">
+<!-- <div class="table-container">
   <table class="table is-striped is-fullwidth">
     <thead>
       <tr>
@@ -180,7 +167,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
       <tr><td>5e plaats</td><td>52 punten</td></tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 ---
 
@@ -191,9 +178,10 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 - Klasse 1/2: 11:30 uur
 
 ### Wedstrijdverloop
-- **Duur:** Klasse 3: 60 minuten + 5 rondes | Klasse 1/2: 75 minuten + 5 rondes
-- **Richting:** met de klok mee
-- **Fiets:** Normale racefiets verplicht
+**Duur:** 
+
+- Klasse 1/2 75 minuten 
+- Klasse 3: 60 minuten 
 
 ### Tussensprints
 - **Klasse 3:** op 20 en 40 minuten
@@ -209,16 +197,14 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 ## Inschrijving
 
 ### Inschrijfkosten
-- **Per wedstrijd:** €5,00
 - **Totaal weekend:** €15,00
 
 ### Inschrijfvoorwaarden
-- Inschrijven kan **uitsluitend vooraf** via de website
-- Bijschrijven is mogelijk tot de start van de tijdrit op vrijdagavond
+- Inschrijven kan uitsluitend via de KNWU website
+- Bijschrijven is mogelijk tot de start van de tijdrit op vrijdagavond tot 18:30 vertoon van een geldig KNWU licentie is dan verplicht.
 - **Alle drie de wedstrijden moeten worden gestart**
-- Niet starten betekent uitsluiting voor de volgende wedstrijd
+- Niet starten betekent uitsluiting voor de volgende wedstrijd(en)
 - Deelname op eigen risico
-- KNWU-reglementen zijn van toepassing
 
 <div class="has-text-centered mt-5">
   <a href="https://inschrijven.dts-wielrennen.nl/driedaagse-2026" class="button is-primary is-large" target="_blank">
@@ -260,12 +246,9 @@ Het eindklassement wordt bepaald door de **som van alle punten** behaald tijdens
 - **Klasse 3** 
 - **Dames** (mogen kiezen tussen klasse 2 of 3)
 
-### Veiligheid
-- EHBO aanwezig
-- Jury aanwezig
-- Beslissingen wedstrijdleiding zijn bindend
-
 ### Contact
 **Organisatie:** Zaanlandse Wielerclub DTS  
 **Contact:** (gegevens volgen)  
 **Versie:** Concept - februari 2026
+
+{{< faq >}}
