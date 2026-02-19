@@ -1,6 +1,7 @@
 # Use a HUGU included image from docker hub
 FROM alpine
-RUN apk update && apk add hugo go git
+RUN apk update && apk add go git hugo
+
 # Set the working directory to /src
 WORKDIR /workspace
 

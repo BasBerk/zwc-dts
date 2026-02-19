@@ -1,0 +1,94 @@
+{{ define "main" }}
+  {{ partial "navbar.html" . }}
+  {{ partial "navbar-clone.html" . }}
+
+  <section class="section is-medium">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-centered-tablet-portrait column is-four-fifths">
+          <h1 class="title section-title">{{ .Title }}</h1>
+          <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
+          <div class="divider"></div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="content column is-four-fifths">
+          <style>
+            .news-overview .news-item { margin-bottom: 1.5rem; }
+            .news-overview .news-item .columns { align-items: center; flex-wrap: wrap; }
+            .news-overview .news-item .image { overflow: hidden; border-radius: 4px; }
+            .news-overview .news-item .image img {
+              width: 100%; height: 200px; object-fit: cover; display: block;
+            }
+            @media (max-width: 768px) {
+              .news-overview .news-item .columns { flex-direction: column; }
+              .news-overview .news-item .news-image { order: 2; width: 100% !important; }
+              .news-overview .news-item .news-content { order: 1; width: 100% !important; }
+            }
+            @media (min-width: 769px) {
+              .news-overview .news-item .news-image { order: 1; }
+              .news-overview .news-item .news-content { order: 2; }
+            }
+            @media (min-width: 1024px) {
+              .news-overview .news-item { margin-bottom: 1rem; }
+              .news-overview .news-item .news-image {
+                width: 35% !important; flex: 0 0 35% !important; max-width: 35% !important;
+              }
+              .news-overview .news-item .news-content {
+                width: 65% !important; flex: 0 0 65% !important; max-width: 65% !important; padding-left: 1rem;
+              }
+            }
+          </style>
+
+          <div class="news-overview">
+            {{ $overviewRelURL := "/nieuws/overview/" }}
+            {{ range (where .Site.RegularPages "Section" "nieuws").ByDate.Reverse }}
+            {{ if ne .RelPermalink $overviewRelURL }}
+            <div class="news-item mt-3">
+              <h3>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <span class="has-text-weight-light is-size-7">{{ .Date.Format "02-01-2006" }}</span>
+              </h3>
+              <div class="columns is-vcentered is-mobile">
+                {{ if .Params.image }}
+                <div class="column is-3-desktop is-4-tablet is-12-mobile news-image">
+                  <a href="{{ .Permalink }}">
+                    <figure class="image">
+                      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                    </figure>
+                  </a>
+                </div>
+                <div class="column news-content">
+                  <p>{{ .Summary }} <a href="{{ .Permalink }}">Lees verder</a></p>
+                </div>
+                {{ else }}
+                <div class="column news-content">
+                  <p>{{ .Summary }} <a href="{{ .Permalink }}">Lees verder</a></p>
+                </div>
+                {{ end }}
+              </div>
+            </div>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+
+        {{ if .Params.sidebar }}
+        <div class="column is-one-fifth">
+          {{ partial "single/sidebar-right.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  {{ if .Params.include_footer }}
+  {{ partial "footer.html" . }}
+  {{ end }}
+
+  {{ if .Params.sidebar }}
+  {{ partial "single/sidebar.html" . }}
+  {{ end }}
+
+{{ end }}

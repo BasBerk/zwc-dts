@@ -2,6 +2,6 @@
 title: Nieuws
 sidebar: true
 sidebarlogo: logo
-layout: nieuwsOverview
+layout: nieuws-overview
 include_footer: True
 ---
