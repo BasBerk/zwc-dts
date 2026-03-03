@@ -7,7 +7,7 @@ description: "Drie wedstrijden 1 klassement"
 
 <div class="hero-section has-text-centered mb-6">
   <h1 class="title is-1 has-text-primary mb-4">DTS Driedaagse</h1>
-  <p class="subtitle is-4 mb-2">12, 13 en 14 juni 2026 | Wielerbaan DTS</p>
+  <p class="subtitle is-4 mb-2">26, 27 en 28 juni 2026 | Wielerbaan DTS</p>
   <p class="is-size-5 has-text-weight-medium mb-4"><em>Drie dagen, drie disciplines, één winnaar</em></p>
   <div class="buttons is-centered">
     <a href="https://inschrijven.dts-wielrennen.nl/driedaagse-2026" class="button is-primary is-large" target="_blank">
@@ -49,7 +49,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
           <span class="icon mr-2">
             <i class="fas fa-clock"></i>
           </span>
-          Vrijdag 12 juni
+          Vrijdag 26 juni
         </p>
       </div>
       <div class="card-content">
@@ -67,7 +67,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
           <span class="icon mr-2">
             <i class="fas fa-users-slash"></i>
           </span>
-          Zaterdag 13 juni
+          Zaterdag 27 juni
         </p>
       </div>
       <div class="card-content">
@@ -85,7 +85,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
           <span class="icon mr-2">
             <i class="fas fa-flag-checkered"></i>
           </span>
-          Zondag 14 juni
+          Zondag 28 juni
         </p>
       </div>
       <div class="card-content">
@@ -100,7 +100,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 
 ---
 
-## Tijdrit - Vrijdag 12 juni
+## Tijdrit - Vrijdag 26 juni
 
 **Starttijd:** 19:00 uur (alle klassen)
 
@@ -127,7 +127,7 @@ Er zijn extra punten te verdienen:
 
 ---
 
-## Afvalkoers - Zaterdag 13 juni
+## Afvalkoers - Zaterdag 27 juni
 
 **Starttijden:**
 - Klasse 3: 10:00 uur
@@ -171,7 +171,7 @@ Er zijn extra punten te verdienen:
 
 ---
 
-## Criterium - Zondag 14 juni
+## Criterium - Zondag 28 juni
 
 **Starttijden:**
 - Klasse 3: 10:00 uur
