@@ -32,9 +32,15 @@ description: "Drie wedstrijden 1 klassement"
 
 ## Over de Driedaagse
 
-De **DTS Driedaagse** is een uniek wielerweekend georganiseerd door Zaanlandse Wielerclub DTS. Drie dagen lang strijden renners in verschillende disciplines om het eindklassement. Van de razendsnelle tijdrit op vrijdag, via de tactische afvalkoers op zaterdag, tot het spectaculaire criterium op zondag.
+De **DTS Driedaagse** is een uniek wielerweekend georganiseerd door Zaanlandse Wielerclub DTS. 
+Drie dagen lang strijden renners in verschillende disciplines om het eindklassement. 
+Van de razendsnelle tijdrit op vrijdag, via de tactische afvalkoers op zaterdag, 
+tot het spectaculaire criterium op zondag. Het is bedoeld voor alle wielrenners die een weekend vol uitdaging en plezier zoeken.
 
-Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de deelnemers. Het eindklassement wordt bepaald door de som van alle behaalde punten tijdens de drie wedstrijden.
+Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de deelnemers. 
+Het eindklassement wordt bepaald door de som van alle behaalde punten tijdens de drie wedstrijden.
+Details rondom de puntentelling en extra bonuspunten worden binnenkort bekend gemaakt. Ook zal 
+dan het wedstrijdreglement worden gedeeld. 
 
 ---
 
@@ -111,7 +117,7 @@ Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de 
 
 ### Materiaal & Regels
 - **Verplicht:** Normale racefiets verplicht
-- **Toegestaan:** Tijdrithelm en snelpak
+- **Toegestaan:** Tijdrithelm, snelpak en velghoogte maximaal 65 mm
 - **Niet toegestaan:** Tijdritfiets, opzetstuur, dichte wielen
 - **Afstand houden:** Minimaal 5 meter achter voorganger
 - **Verboden:** Draften/slipstreamen
@@ -123,7 +129,7 @@ Binnenkort meer informatie
 Er zijn extra punten te verdienen:
 - Voor de snelste ronde in jouw klasse
 - Beste voorspelling rondetijd (via website)
-- Meest consistente rijder.
+- Meest consistente rijder (kleinste verschil tussen alle gereden ronde)
 
 ---
 
@@ -140,15 +146,15 @@ Er zijn extra punten te verdienen:
 - Klasse 3: 60 minuten 
 
 **Eerste 40 minuten: Reguliere koers**
-- Op ronde gezet worden: 0 punten en uit koers na 40 minuten
-- Iemand op ronde zetten: **+25 punten**
+- Op 1 of meerdere ronde(s) gezet worden: 0 punten en uit koers na 40 minuten
+- Peloton op een ronde zetten: **+25 punten** (Jury beslist wanneer peloton op een ronde staat)
 
 **Na 40 minuten: Afvalrondes**
-- Aantal afvallers per ronde: TBD (2/3/4/5 renners)
+- Aantal afvallers per 2 rondes: 2/3/4/5 renners, dit word door de jury vooraf bekend gemaakt
 - Laatste(n) over finish valt/vallen af
 - Continue tot 5 renners over zijn
 
-**Finale:** Laatste 5 renners sprinten 2 rondes voor einduitslag
+**Finale:** Laatste 5 renners sprinten na 2 rondes voor einduitslag, bij de laatste ronde word de bel geluid 
 
 ### Punten Top 5
 <!-- <div class="table-container">
