@@ -91,6 +91,21 @@ params:
     - title: Trainingen
       url: /trainingen
 
+  - title: Wedstrijden
+    url: /
+    sublinks:
+    - title: Driedaagse DTS
+      url: /wedstrijden/driedaagse-dts
+    - title: Vuurlinie
+      url: /wedstrijden/vuurlinie
+    - title: Instapkoers
+      url: /wedstrijden/instapkoers
+    - title: Ronde van Assendelft
+      url: /wedstrijden/assendelft
+    - title: Ronde van Oostzaan
+      url: /wedstrijden/oostzaan
+    - title: Ronde van Krommenie
+      url: /wedstrijden/krommenie
   - title: Nieuws
     url: /nieuws/overview
   - title: Kalender
@@ -210,6 +225,8 @@ params:
       column2:
         title: "Wedstrijden"
         links:
+        - text: Driedaagse DTS
+          link: /wedstrijden/driedaagse-dts
         - text: Vuurlinie
           link: /wedstrijden/vuurlinie
         - text: Instapkoers

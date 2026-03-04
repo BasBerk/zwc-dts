@@ -1,5 +1,5 @@
 ---
-title: "DTS Instapkoers 2025"
+title: "DTS Instapkoers 2026"
 date: 2025-04-03
 draft: false
 description: "Instapkoers voor beginnende wielrenners bij DTS Zaanstreek"
@@ -27,19 +27,15 @@ De Instapkoers is speciaal ontwikkeld voor wielrenners die de eerste stappen wil
 De Instapkoers vindt plaats **elke vrijdag om 19:00 uur** van april t/m augustus 2025.
 
 **Datums 2025:**
-- 18 april (eerste sessie)
-- 25 april
-- 2 mei
-- 9 mei
-- 16 mei
-- 23 mei
-- 30 mei
-- 6 juni
-- 13 juni
-- 20 juni
-- 27 juni
-- 4 juli
-- 11 juli
+- 17 april (eerste sessie)
+- 24 april
+- 1 mei
+- 8 mei
+- 15 mei
+- 29 mei
+- 5 juni
+- 12 juni
+- 19 juni
 
 
 ## Waar?

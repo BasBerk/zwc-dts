@@ -1,0 +1,62 @@
+{{- $race := .Get "race" | default "standard" -}}
+
+{{- if eq $race "tijdrit" -}}
+<div class="table-container">
+  <table class="table is-striped is-fullwidth">
+    <thead>
+      <tr>
+        <th>Plaats</th>
+        <th>Punten</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1e plaats</td><td>{{site.Params.points.first}} punten</td></tr>
+      <tr><td>2e plaats</td><td>{{site.Params.points.second}} punten</td></tr>
+      <tr><td>3e plaats</td><td>{{site.Params.points.third}} punten</td></tr>
+      <tr><td>4e plaats</td><td>{{site.Params.points.fourth}} punten</td></tr>
+      <tr><td>5e plaats</td><td>{{site.Params.points.fifth}} punten</td></tr>
+      <tr><td>6e plaats</td><td>{{site.Params.points.sixth}} punten</td></tr>
+      <tr><td>7e-16e</td><td>aflopend tot {{site.Params.points.other}} punten</td></tr>
+      <tr><td>17e en lager</td><td>{{site.Params.points.other}} punten</td></tr>
+    </tbody>
+  </table>
+</div>
+{{- else if eq $race "afvalkoers" -}}
+<div class="table-container">
+  <table class="table is-striped is-fullwidth">
+    <thead>
+      <tr>
+        <th>Plaats (Top 5)</th>
+        <th>Punten</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1e plaats</td><td>{{site.Params.points.first}} punten</td></tr>
+      <tr><td>2e plaats</td><td>{{site.Params.points.second}} punten</td></tr>
+      <tr><td>3e plaats</td><td>{{site.Params.points.third}} punten</td></tr>
+      <tr><td>4e plaats</td><td>{{site.Params.points.fourth}} punten</td></tr>
+      <tr><td>5e plaats</td><td>{{site.Params.points.fifth}} punten</td></tr>
+    </tbody>
+  </table>
+</div>
+{{- else -}}
+<!-- Standard points table -->
+<div class="table-container">
+  <table class="table is-striped is-fullwidth">
+    <thead>
+      <tr>
+        <th>Plaats</th>
+        <th>Punten</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1e plaats</td><td>{{site.Params.points.first}} punten</td></tr>
+      <tr><td>2e plaats</td><td>{{site.Params.points.second}} punten</td></tr>
+      <tr><td>3e plaats</td><td>{{site.Params.points.third}} punten</td></tr>
+      <tr><td>4e plaats</td><td>{{site.Params.points.fourth}} punten</td></tr>
+      <tr><td>5e plaats</td><td>{{site.Params.points.fifth}} punten</td></tr>
+      <tr><td>6e en lager</td><td>{{site.Params.points.other}} punten</td></tr>
+    </tbody>
+  </table>
+</div>
+{{- end -}}
