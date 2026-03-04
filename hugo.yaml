@@ -246,3 +246,33 @@ params:
         #   link: /dewaaier
         - text: Dagelijks bestuur
           link: /over-dts
+    sponsors:
+      title: Wij danken onze sponsoren
+      logos:
+        - name: Kauffman van Seijst
+          url: ""
+          logo: /images/logos/clients/Kauffman-vanseijst.png
+        - name: Armada Mobility
+          url: https://www.armadamobility.nl
+          logo: /images/logos/clients/armada.svg
+        - name: Kremers Hypotheken
+          url: https://mkkadvies.nl/
+          logo: /images/logos/clients/Kremers.svg
+        - name: Bakker Heftrucks
+          url: https://www.bakkerheftrucks.com/nl/
+          logo: /images/logos/clients/bakker.svg
+        - name: Poke Perfect
+          url: https://pokeperfect.nl/
+          logo: /images/logos/clients/poke.png
+        - name: van Assema Schilders
+          url: https://www.vanassemaschilders.nl/
+          logo: /images/logos/clients/va.png
+        - name: Fysio bikefitting
+          url: http://www.fysiobikefitting.nl/
+          logo: /images/logos/clients/fysio.jpg
+        - name: Constructiebureau Tentij BV
+          url: https://www.tentijbv.nl/
+          logo: /images/logos/clients/tentij.svg
+        - name: Viro
+          url: https://www.viro-group.com/nl/
+          logo: /images/logos/clients/viro.svg
