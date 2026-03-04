@@ -2,21 +2,21 @@
 title: "DTS Driedaagse"
 date: 2025-04-03
 draft: false
+sidebar: true
 description: "Drie wedstrijden 1 klassement"
 ---
 
 <div class="hero-section has-text-centered mb-6">
-  <h1 class="title is-1 has-text-primary mb-4">DTS Driedaagse</h1>
   <p class="subtitle is-4 mb-2">26, 27 en 28 juni 2026 | Wielerbaan DTS</p>
   <p class="is-size-5 has-text-weight-medium mb-4"><em>Drie dagen, drie disciplines, één winnaar</em></p>
   <div class="buttons is-centered">
-    <a href="https://inschrijven.dts-wielrennen.nl/driedaagse-2026" class="button is-primary is-large" target="_blank">
+    <a href="https://mijn.knwu.nl/calendar/events/21737" class="button is-large" style="background-color: #35adef; color: white;" target="_blank">
       <span class="icon">
         <i class="fas fa-user-plus"></i>
       </span>
       <span>Inschrijven - €15,00</span>
     </a>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeq7XgHPPYuu8pAY5w2ll8Glp5O13OjOJD9go9CeMNpuvKLtQ/viewform" class="button is-primary is-large" target="_blank">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeq7XgHPPYuu8pAY5w2ll8Glp5O13OjOJD9go9CeMNpuvKLtQ/viewform" class="button is-large" style="background-color: #35adef; color: white;" target="_blank">
       <span class="icon">
         <i class="fa fa-clock-o"></i>
       </span>
@@ -50,7 +50,7 @@ dan het wedstrijdreglement worden gedeeld.
   
   <div class="column is-4">
     <div class="card has-text-centered">
-      <div class="card-header has-background-danger">
+      <div class="card-header" style="background-color: #35adef;">
         <p class="card-header-title has-text-white is-centered">
           <span class="icon mr-2">
             <i class="fas fa-clock"></i>
@@ -59,7 +59,7 @@ dan het wedstrijdreglement worden gedeeld.
         </p>
       </div>
       <div class="card-content">
-        <h4 class="title is-4 has-text-danger">Tijdrit</h4>
+        <h4 class="title is-4" style="color: #35adef;">Tijdrit</h4>
         <p class="subtitle is-6 mb-3">19:00 uur (alle klassen)</p>
         <p class="has-text-grey-dark">Start je weekend met een individuele tijdrit tegen de klok op het parcours. Voorspel je snelste rondetijd voor extra punten. </p>
       </div>
@@ -68,7 +68,7 @@ dan het wedstrijdreglement worden gedeeld.
 
   <div class="column is-4">
     <div class="card has-text-centered">
-      <div class="card-header has-background-warning">
+      <div class="card-header" style="background-color: #35adef;">
         <p class="card-header-title has-text-white is-centered">
           <span class="icon mr-2">
             <i class="fas fa-users-slash"></i>
@@ -77,7 +77,7 @@ dan het wedstrijdreglement worden gedeeld.
         </p>
       </div>
       <div class="card-content">
-        <h4 class="title is-4 has-text-warning">Afvalkoers</h4>
+        <h4 class="title is-4" style="color: #35adef;">Afvalkoers</h4>
         <p class="subtitle is-6 mb-3">Klasse 3: 10:00 uur | Klasse 1/2: 11:30 uur</p>
         <p class="has-text-grey-dark">Tactiek en doorzettingsvermogen in een spannende afvalkoers met de klok mee.</p>
       </div>
@@ -86,7 +86,7 @@ dan het wedstrijdreglement worden gedeeld.
 
   <div class="column is-4">
     <div class="card has-text-centered">
-      <div class="card-header has-background-success">
+      <div class="card-header" style="background-color: #35adef;">
         <p class="card-header-title has-text-white is-centered">
           <span class="icon mr-2">
             <i class="fas fa-flag-checkered"></i>
@@ -95,7 +95,7 @@ dan het wedstrijdreglement worden gedeeld.
         </p>
       </div>
       <div class="card-content">
-        <h4 class="title is-4 has-text-success">Criterium</h4>
+        <h4 class="title is-4" style="color: #35adef;">Criterium</h4>
         <p class="subtitle is-6 mb-3">Klasse 3: 10:00 uur | Klasse 1/2: 11:30 uur</p>
         <p class="has-text-grey-dark">Sluit het weekend af met een klassiek criterium inclusief tussensprints.</p>
       </div>
@@ -213,7 +213,7 @@ Er zijn extra punten te verdienen:
 - Deelname op eigen risico
 
 <div class="has-text-centered mt-5">
-  <a href="https://inschrijven.dts-wielrennen.nl/driedaagse-2026" class="button is-primary is-large" target="_blank">
+  <a href="https://mijn.knwu.nl/calendar/events/21737" class="button is-large" style="background-color: #35adef; color: white;" target="_blank">
     <span class="icon">
       <i class="fas fa-external-link-alt"></i>
     </span>
@@ -237,7 +237,7 @@ Het eindklassement wordt bepaald door de **som van alle punten** behaald tijdens
 - **Eindklassement:** top 15 overall
 - **Prijsuitreiking:** zaterdag (i.v.m. berekeningen)
 
-**Bij gelijke stand:** TBD
+**Bij gelijke stand:** Bij gelijke stand is de uitslag van de wedstrijd op zondag doorslagevend. 
 
 ---
 
@@ -245,7 +245,7 @@ Het eindklassement wordt bepaald door de **som van alle punten** behaald tijdens
 
 ### Parcours
 - **Lengte per ronde:** 1.251 meter
-- **Locatie:** Wielerbaan DTS
+- **Locatie:** Zuiderweg 72B
 
 ### Categorieën
 - **Klasse 1/2**
@@ -254,7 +254,7 @@ Het eindklassement wordt bepaald door de **som van alle punten** behaald tijdens
 
 ### Contact
 **Organisatie:** Zaanlandse Wielerclub DTS  
-**Contact:** (gegevens volgen)  
-**Versie:** Concept - februari 2026
+**Contact:** bas@zwc-dts.nl
+
 
 {{< faq >}}
