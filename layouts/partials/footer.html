@@ -1,0 +1,56 @@
+{{ $footer := .Site.Params.footer }}
+<footer class="footer footer-dark">
+  <div class="container">
+    {{ with $footer.sponsors }}
+    <div class="content has-text-centered mb-6 pb-6" style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+      <h3 class="title is-4 has-text-white mb-5">{{ .title }}</h3>
+      <div class="columns is-multiline is-mobile is-centered">
+        {{ range .logos }}
+        <div class="column is-2-desktop is-3-tablet is-4-mobile">
+          {{ if .url }}
+          <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">
+          {{ end }}
+            <figure class="image is-128x128" style="margin: 0 auto; background: white; padding: 10px; border-radius: 8px;">
+              <img src="{{ .logo }}" alt="{{ .name }}" style="object-fit: contain; width: 100%; height: 100%;">
+            </figure>
+          {{ if .url }}
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <div class="columns">
+      {{ range $footer.quicklinks }}
+      <div class="column">
+        <div class="footer-column">
+          <div class="footer-header">
+            <h3>{{ .title }}</h3>
+          </div>
+          <ul class="link-list">
+            {{ range .links }}
+            <li>
+              <a href="{{ .link | relLangURL }}">
+                {{ .text }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="content has-text-centered">
+      <div class="control level-item">
+        {{ range $footer.socialmedia }}
+        <a href="{{ .link }}">
+          <span class="icon"><i class="fab fa-lg {{ .icon }}"></i></span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</footer>
