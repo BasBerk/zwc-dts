@@ -2,6 +2,8 @@
 title: "DTS Instapkoers 2026"
 date: 2025-04-03
 draft: false
+include_footer: True
+sidebar: True
 description: "Instapkoers voor beginnende wielrenners bij DTS Zaanstreek"
 ---
 
