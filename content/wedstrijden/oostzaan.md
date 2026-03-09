@@ -1,6 +1,7 @@
 ---
 title: Oostzaan
-sidebar: True
+include_footer: True
+sidebar: true
 sidebarlogo: logo
 include_footer: True
 ---

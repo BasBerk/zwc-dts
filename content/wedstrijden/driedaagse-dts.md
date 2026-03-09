@@ -2,6 +2,7 @@
 title: "DTS Driedaagse"
 date: 2025-04-03
 draft: false
+include_footer: True
 sidebar: true
 description: "Drie wedstrijden 1 klassement"
 ---
