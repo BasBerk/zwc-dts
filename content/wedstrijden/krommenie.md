@@ -3,7 +3,6 @@ title: Krommenie
 include_footer: True
 sidebar: true
 sidebarlogo: logo
-include_footer: True
 ---
 
 # Ronde van Krommenie
