@@ -9,10 +9,10 @@ include_footer: True
 
 | Functie           | Naam                  | Mailadres                 |
 | ----------------- | --------------------- | ------------------------- |
-| Voorzitter        | Jan Dick den Das      | jddendas@gmail.com        |
+| Voorzitter        | Jan Dick den Das      | voorzitter@zwc-dts.nl        |
 | Secretaris        | Bas Berkhout         | secretariaat@zwc-dts.nl   |
-| 1e Penningmeester | Ger Pieter van Seijst | gpvanseijst@gmail.com     |
-| 2e Penningmeester | Dennis Keijzer        | denniskeijzer66@gmail.com |
+| 1e Penningmeester | Ger Pieter van Seijst | penningmeester@zwc-dts.nl / ger-pieter@zwc-dts.nl     |
+| 2e Penningmeester | Dennis Keijzer        | penningmeester2@zwc-dts.nl / dennis@zwc-dts.nl |
 
 ## Ere leden
 
