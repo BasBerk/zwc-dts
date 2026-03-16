@@ -73,6 +73,8 @@ params:
       url: https://www.vanassemaschilders.nl/
     - logo: Kauffman-vanseijst.png
       url: #
+    - logo: rimaxx.jpg
+      url: https://www.rimaxx.nl/ 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Categorieën
@@ -276,3 +278,6 @@ params:
         - name: Viro
           url: https://www.viro-group.com/nl/
           logo: /images/logos/clients/viro.svg
+        - name: Rimaxx
+          url: https://www.rimaxx.nl/
+          logo: /images/logos/clients/rimaxx.jpg
