@@ -33,7 +33,7 @@ include_footer: True
 | Niki Terpstra              | Piet Stadt              |                       |
 | Roel van Wijk              | Joop Verhoef            |                       |
 | Yoeri Havik                | Thomas Visser i.m.      |                       |
-| Bert Braspenning           | Jan Vollaard            |                       |
+| Bert Braspenning i.m.      | Jan Vollaard            |                       |
 |                            | P. Valenteijn i.m.      |                       |
 |                            | D. de Vries Tz. i.m.    |                       |
 |                            | Dave Bakker             |                       |
