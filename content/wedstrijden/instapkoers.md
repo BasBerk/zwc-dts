@@ -9,12 +9,12 @@ description: "Instapkoers voor beginnende wielrenners bij DTS Zaanstreek"
 
 # Kom jij ook koersen?
 
-![Instapkoers 2025](/images/news/instapkoers2025.jpg)
+![Instapkoers 2026](/images/news/instapkoers2026.png)
 
 
 ## Voor beginnende wielrenners die willen leren koersen
 
-DTS Zaanstreek organiseert in 2025 weer de populaire Instapkoers-avonden voor beginnende wielrenners die willen leren koersen. Of je nu al wat ervaring hebt of voor het eerst in een peloton wilt rijden, iedereen is welkom!
+DTS Zaanstreek organiseert in 2026 weer de populaire Instapkoers-avonden voor beginnende wielrenners die willen leren koersen. Of je nu al wat ervaring hebt of voor het eerst in een peloton wilt rijden, iedereen is welkom!
 
 ## Wat is de Instapkoers?
 
@@ -26,9 +26,9 @@ De Instapkoers is speciaal ontwikkeld voor wielrenners die de eerste stappen wil
 
 ## Wanneer?
 
-De Instapkoers vindt plaats **elke vrijdag om 19:00 uur** van april t/m augustus 2025.
+De Instapkoers vindt plaats **elke vrijdag om 19:00 uur** van april t/m augustus 2026.
 
-**Datums 2025:**
+**Datums 2026:**
 - 17 april (eerste sessie)
 - 24 april
 - 1 mei
