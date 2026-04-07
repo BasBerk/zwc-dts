@@ -34,6 +34,7 @@ De Instapkoers vindt plaats **elke vrijdag om 19:00 uur** van april t/m augustus
 - 1 mei
 - 8 mei
 - 15 mei
+- 22 mei
 - 29 mei
 - 5 juni
 - 12 juni
