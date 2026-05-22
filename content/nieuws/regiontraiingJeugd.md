@@ -6,15 +6,11 @@ sidebar: false
 include_footer: True
 ---
 
-
-
-Na een aantal dagen met slecht weer hadden we geen mooier weer kunnen treffen. De temperatuur was perfect en het parcours lag er klaar voor een avond wielrennen.
-
-
+Na een aantal dagen met slecht weer hadden we geen mooier weer kunnen treffen. De temperatuur was perfect en het parcours lag er goed bij voor een avond wielrennen.
 
 ## Jongere jeugd
 
-Als eerste waren de jongere renners aan de beurt. Onder leiding van trainer Rick begonnen we met een warming-up en een verkenning van het parcours. Met een opkomst van bijna 20 jongens waren we zeker niet ontevreden.
+Als eerste waren de jongere renners aan de beurt. Onder leiding van trainer Rick en Bas begonnen we met een warming-up en een verkenning van het parcours. Met een opkomst van bijna 20 jongens waren we zeker niet ontevreden.
 
 Daarna volgden we het vaste schema: een tijdrit over twee ronden. En er is super gereden!
 
@@ -46,7 +42,7 @@ Na de tijdrit was het tijd voor de wedstrijd. Om iedereen de kans te geven in ee
 
 Toen was het tijd voor de tweede groep: de snellere en oudere jeugdrenners. Ook hier begonnen we met een warming-up, en met maar liefst 34 deelnemers konden we wel spreken van een gigantisch peloton.
 
-Na de warming-up stelden alle 34 renners zich op voor hun individuele tijdrit. Als jurylid en trainer was het nog best een klus om ze allemaal te starten en te finishen, maar de uitslagen liegen er niet om: er is gigantisch hard gereden.
+Na de warming-up stelden alle 34 renners zich op voor hun individuele tijdrit. Als "jury" was het nog best een klus om ze allemaal te starten en te finishen, maar de uitslagen liegen er niet om: er is gigantisch hard gereden.
 
 ### Tijdrit uitslag
 
@@ -87,15 +83,14 @@ Na de warming-up stelden alle 34 renners zich op voor hun individuele tijdrit. A
 | 33 | 34 | Jolie Sinnema | 04:51.2 | 31.00 |
 | 34 | 33 | Ida van Helmond | 05:03.0 | 29.77 |
 
-Daarna was het tijd voor de wedstrijd, opnieuw onder leiding van trainer Rick. Na een rustige opbouw liep de snelheid al snel op naar boven de 32 km/u. Maar met zo'n grote groep werd al snel duidelijk dat de brug bij DTS een scherpe uitdaging vormt: terwijl de koplopers de bocht al om waren, hoopte het achterin het peloton op. Daarbij stond er ook nog wat wind, waardoor de groepen al snel uit elkaar reden en de gaten niet meer te dichten waren.
+Daarna was het tijd voor de wedstrijd, opnieuw onder leiding van trainer Rick. Na een rustige opbouw liep de snelheid al snel op naar boven de 32 km/u. Maar met zo'n grote groep werd al snel duidelijk dat de brug bij DTS een scherprechter vormt: terwijl de koplopers de bocht al om waren, hoopte het achterin het peloton op. Daarbij stond er ook nog wat wind, waardoor de groepen al snel uit elkaar reden en de gaten niet meer te dichten waren.
 
-Na zes ronden werd de wedstrijd vrijgegeven en kregen de renners vijf ronden om het zelf te beslissen. Als trainers hebben we geprobeerd het peloton bij elkaar te houden. Wanneer de snelheid onder de 32 km/u zakte, reden we naar voren om ze te enthousiasmeren door even op kop te gaan. Uiteindelijk werd de wedstrijd beslist met een mooie sprint.
+Na zes ronden werd de wedstrijd vrijgegeven en kregen de renners vijf ronden om het zelf te beslissen. Als trainers hebben we geprobeerd het peloton bij elkaar te houden. Wanneer de snelheid onder de 32 km/u zakte, reden we naar voren om ze te enthousiasmeren om de snelheid er in te houden door even op kop te gaan rijden. Uiteindelijk werd de wedstrijd beslist met een mooie sprint.
 
 {{< newsimage src="/images/news/regiotraining/group2.jpeg" alt="Group2" caption="group 2" >}}
 
-
 ## Uitrijden en afkoelen
 
-Om de renners die waren afgevallen niet met tien ronden DTS naar huis te sturen, zijn we daarna nog de baan op gegaan om uit te rijden. Voor sommigen was dat het moment voor een gezellig gesprek. Anderen kozen ervoor om een aantal ronden achter de trainer te rijden en er toch nog een lekker tempo in te houden. En uiteraard lag er bij het clubgebouw voor iedereen een ijsje klaar om af te koelen.
+Om de renners die waren afgevallen niet met tien ronden DTS naar huis te sturen, zijn we daarna nog de baan op gegaan om uit te rijden. Voor sommigen was dat het moment voor een gezellig gesprek. Anderen kozen ervoor om een aantal ronden achter de trainer te rijden en er toch nog met een lekker tempo de dag af te sluiten. En uiteraard lag er bij het clubgebouw voor iedereen een ijsje klaar om af te koelen.
 
 Voor ZWC DTS was het een geslaagde avond. Hopelijk hebben de deelnemers dat ook zo ervaren!
