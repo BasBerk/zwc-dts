@@ -4,6 +4,7 @@ date: 2026-05-22
 layout: nieuws
 sidebar: false
 include_footer: True
+image: "/images/news/regiotraining/group2_1.jpeg"
 ---
 
 Na een aantal dagen met slecht weer hadden we geen mooier weer kunnen treffen. De temperatuur was perfect en het parcours lag er goed bij voor een avond wielrennen.
