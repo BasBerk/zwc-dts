@@ -7,7 +7,7 @@ sidebarlogo: logo
 
 
 <div class="notification is-danger has-text-centered">
-	<strong>Tot nader bericht tijdelijk geen vuurlinie wedstrijden.</strong>
+	<strong>Tot nader bericht geen vuurlinie wedstrijden.</strong>
 </div>
 
 Het is tijd om de benen te scheren en de ketting te smeren. Voor het 13e jaar op rij strijden we om de eer, de dagprijzen en het klassement. Op woensdag 8 april 2026 lossen we het eerste startschot van de legendarische Vuurlinie Voorjaarscompetitie!
