@@ -40,6 +40,9 @@ tot het spectaculaire criterium op zondag. Het is bedoeld voor alle wielrenners 
 
 Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de deelnemers. 
 Het eindklassement wordt bepaald door de som van alle behaalde punten tijdens de drie wedstrijden.
+
+**Belangrijk** 
+Je mag zelf kiezen welke wedstrijden je rijdt, maar deelname aan alle drie de wedstrijden vergroot je kansen op het eindklassement.
 ---
 
 ## Programma
