@@ -40,9 +40,6 @@ tot het spectaculaire criterium op zondag. Het is bedoeld voor alle wielrenners 
 
 Elke dag biedt zijn eigen uitdaging en vraagt verschillende vaardigheden van de deelnemers. 
 Het eindklassement wordt bepaald door de som van alle behaalde punten tijdens de drie wedstrijden.
-Details rondom de puntentelling en extra bonuspunten worden binnenkort bekend gemaakt. Ook zal 
-dan het wedstrijdreglement worden gedeeld. 
-
 ---
 
 ## Programma
@@ -124,13 +121,20 @@ dan het wedstrijdreglement worden gedeeld.
 - **Verboden:** Draften/slipstreamen
 
 ### Puntenverdeling
-Binnenkort meer informatie
+![Algemeen_punten](/images/news/driedaagse-dts-2026/algemeen_punten.png)
 
 **Bonuspunten:**
 Er zijn extra punten te verdienen:
 - Voor de snelste ronde in jouw klasse
+    - 1e plek: 10 punten
+    - 2e plek: 7 punten
+    - 3e plek: 5 punten
 - Beste voorspelling rondetijd (via website)
+  - 10 punten
 - Meest consistente rijder (kleinste verschil tussen alle gereden ronde)
+  - 1e plek: 10 punten
+  - 2e plek: 7 punten
+  - 3e plek: 5 punten
 
 ---
 
@@ -157,24 +161,8 @@ Er zijn extra punten te verdienen:
 
 **Finale:** Laatste 5 renners sprinten na 2 rondes voor einduitslag, bij de laatste ronde word de bel geluid 
 
-### Punten Top 5
-<!-- <div class="table-container">
-  <table class="table is-striped is-fullwidth">
-    <thead>
-      <tr>
-        <th>Plaats (Top 5)</th>
-        <th>Punten</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>1e plaats</td><td>60 punten</td></tr>
-      <tr><td>2e plaats</td><td>58 punten</td></tr>
-      <tr><td>3e plaats</td><td>56 punten</td></tr>
-      <tr><td>4e plaats</td><td>54 punten</td></tr>
-      <tr><td>5e plaats</td><td>52 punten</td></tr>
-    </tbody>
-  </table>
-</div> -->
+### Punten
+![Algemeen_punten](/images/news/driedaagse-dts-2026/Afvalkoers_punten.png)
 
 ---
 
@@ -193,11 +181,17 @@ Er zijn extra punten te verdienen:
 ### Tussensprints
 - **Klasse 3:** op 20 en 40 minuten
 - **Klasse 1/2:** op 25 en 50 minuten
-- **Punten per sprint:** TBD (top 5)
+- **Punten per sprint:** 
+  - 1e plek: 10 punten
+  - 2e plek: 7 punten
+  - 3e plek: 5 punt
+  - 4e plek: 3 punten
+  - 5e plek: 1 punt
 
 ### Extra Punten
-- **Leidersprijs:** TBD punten (renner die het vaakst als eerste over finish komt)
+- **Leidersprijs:** 10 punten
 - **Eindklassement punten:** Volgens standaard puntensysteem
+![Algemeen_punten](/images/news/driedaagse-dts-2026/algemeen_punten.png)
 
 ---
 
@@ -209,8 +203,7 @@ Er zijn extra punten te verdienen:
 ### Inschrijfvoorwaarden
 - Inschrijven kan uitsluitend via de KNWU website
 - Bijschrijven is mogelijk tot de start van de tijdrit op vrijdagavond tot 18:30 vertoon van een geldig KNWU licentie is dan verplicht.
-- **Alle drie de wedstrijden moeten worden gestart**
-- Niet starten betekent uitsluiting voor de volgende wedstrijd(en)
+- Er kan los worden gestart voor iedere wedstrijd, een dag niet starten levert geen punten op voor het eindklassement.
 - Deelname op eigen risico
 
 <div class="has-text-centered mt-5">
