@@ -62,7 +62,7 @@ Je mag zelf kiezen welke wedstrijden je rijdt, maar deelname aan alle drie de we
       </div>
       <div class="card-content">
         <h4 class="title is-4" style="color: #35adef;">Tijdrit</h4>
-        <p class="subtitle is-6 mb-3">19:00 uur (alle klassen)</p>
+        <p class="subtitle is-6 mb-3">19:30 uur (alle klassen)</p>
         <p class="has-text-grey-dark">Start je weekend met een individuele tijdrit tegen de klok op het parcours. Voorspel je snelste rondetijd voor extra punten. </p>
       </div>
     </div>
@@ -110,7 +110,7 @@ Je mag zelf kiezen welke wedstrijden je rijdt, maar deelname aan alle drie de we
 
 ## Tijdrit - Vrijdag 26 juni
 
-**Starttijd:** 19:00 uur (alle klassen)
+**Starttijd:** 19:30 uur (alle klassen)
 
 ### Wedstrijdverloop
 - **Afstand:** 10 ronden (12,51 km)
