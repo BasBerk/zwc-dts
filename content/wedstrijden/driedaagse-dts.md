@@ -30,6 +30,27 @@ description: "Drie wedstrijden 1 klassement"
 </div>
 
 ---
+## Nieuws update 27 juni 2026
+Vrijdag avond is de tijdrit niet doorgegaan in verband met code rood. Vanmorgen zijn we 
+wel van start gegaan met de afvalkoers. De koers was levendig en tactisch spannend. Renners
+zaten in dubio, zullen we aanvallen en zo mezelf veilig stellen of wachten tot de sprint. 
+De uitslag van de afvalkoers is bekend, hieronder
+de top 3 per klasse.
+
+Klasse 1/2:
+1. Jasper Mons
+2. Matz Kleijn
+3. Silvain Niesten
+
+Klasse 3:
+1. Sybe van Diepen
+2. Folmer Koper
+3. Lennard Pasman
+
+**Morgen zullen we weer net zoals vandaag beide koersen om 10.00 van start gaan.**
+Morgen zal het criterium verreden worden en er zullen een aantal tussensprints plaatsvinden
+voor punten in het klassement. De einduitslag van de DTS Driedaagse zal na het criterium bekend worden gemaakt.
+De voorspellingen voor het koersweer zijn perfect, dus we hopen op een mooie koers en veel publiek.
 
 ## Over de Driedaagse
 
