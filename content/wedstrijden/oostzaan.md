@@ -11,11 +11,11 @@ Naast de Kermis Wielerronde van Assendelft is ook de Ronde van Oostzaan een echt
 DTS draagt, in samenwerking met een sterk en actief plaatselijk comité, zorg voor de organisatie.
 
 De start is op de Dr. Boomstraat en voert de renners daarna linksaf over de Bartel Jacobs-, Dr. De Boer-, Dr. Scharffstraat en aan het eind weer naar de start-/finishlijn.
-Het is dit jaar alweer de 51e editie.
+Het is dit jaar alweer de 52e editie.
 
 Verdere informatie is ook te vinden op de website van deze ronde, namelijk www.rondevanoostzaan.nl
 
-## Datum: zondag 3 augustus 2025
+## Datum: zondag 2 augustus 2026
 
 ## Parkoers
 
@@ -24,9 +24,9 @@ Het parkoers bestaat uit twee lange rechte einden met een tweetal bochten kort a
 Starttijden en categorieën 2024 
 
 
-12:00 uur: Klasse 2 
-13.15 uur: Amateurs, Belofte (club), Elite (club) | Vrouwen
-15.00 uur: Amateurs, Belofte, Elite, Professional-B | mannen
+12:15 uur: Klasse 2 
+13.30 uur: Klasse 1/ Junioren(M)
+15.00 uur: Elite zonder contract, Belofte zonder contract, Klasse 1, 2, 3  en  Junioren (V)
 
 **Permanence:**
 
