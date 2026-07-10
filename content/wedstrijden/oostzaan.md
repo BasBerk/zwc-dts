@@ -5,7 +5,7 @@ sidebar: true
 sidebarlogo: logo
 ---
 
-# Ronde van Oostzaan
+# Ronde van Oostzaan (GEANNULEERD voor 2026)
 Naast de Kermis Wielerronde van Assendelft is ook de Ronde van Oostzaan een echte kermiskoers. Deze ronde staat al sinds 1971 op de eerste zondag van augustus op de wielerkalender en in dit weekend wordt doorgaans ook de kermis van Oostzaan georganiseerd.
 
 DTS draagt, in samenwerking met een sterk en actief plaatselijk comité, zorg voor de organisatie.
@@ -15,7 +15,7 @@ Het is dit jaar alweer de 52e editie.
 
 Verdere informatie is ook te vinden op de website van deze ronde, namelijk www.rondevanoostzaan.nl
 
-## Datum: zondag 2 augustus 2026
+## Datum: zondag 2 augustus 2026 
 
 ## Parkoers
 
