@@ -278,6 +278,12 @@ params:
         - name: Viro
           url: https://www.viro-group.com/nl/
           logo: /images/logos/clients/viro.svg
+        - name: Join
+          url: https://join.cc/
+          logo: /images/logos/adverteerders/join.svg
+        - name: Etixx
+          url: https://www.etixxsports.com/
+          logo: /images/logos/adverteerders/etixx.svg
         - name: Rimaxx
           url: https://www.rimaxx.nl/
           logo: /images/logos/clients/rimaxx.jpg

@@ -219,6 +219,34 @@ Wij danken onze sponsoren en adverteerders voor hun bijdrage aan de vereniging.
     </a>
   </div>
   <div class="column is-one-third-desktop is-half-tablet">
+    <a href="https://join.cc/" target="_blank">
+      <div class="card">
+        <div class="card-image sponsor-image">
+          <figure class="image">
+            <img src="/images/logos/adverteerders/join.svg" alt="Join">
+          </figure>
+        </div>
+        <div class="card-content">
+          <p class="title is-6">Join</p>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="column is-one-third-desktop is-half-tablet">
+    <a href="https://www.etixxsports.com/" target="_blank">
+      <div class="card">
+        <div class="card-image sponsor-image">
+          <figure class="image">
+            <img src="/images/logos/adverteerders/etixx.svg" alt="Etixx">
+          </figure>
+        </div>
+        <div class="card-content">
+          <p class="title is-6">Etixx</p>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="column is-one-third-desktop is-half-tablet">
     <a href="https://www.jonghs.nl/" target="_blank">
       <div class="card">
         <div class="card-image sponsor-image">
