@@ -90,6 +90,8 @@ params:
       url: /categorie/sportklasse
     - title: Elite/Beloften
       url: /categorie/elite_belofte
+    - title: KOERS•KLAS
+      url: /koersklas
     - title: Trainingen
       url: /trainingen
 
@@ -224,6 +226,8 @@ params:
           link: /veiligsport
         - text: Categorieën
           link: /categorie/overzicht
+        - text: KOERS•KLAS
+          link: /koersklas
       column2:
         title: "Wedstrijden"
         links:
